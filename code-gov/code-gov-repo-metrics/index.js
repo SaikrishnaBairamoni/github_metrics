@@ -46,6 +46,7 @@ async function queryGitHub(repoName) {
     // If the repo has more than 100 issues, get the rest of the issues
     if (dataJSON.repository.issues.pageInfo.hasNextPage) {
         var issues = await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, dataJSON.repository.issues.nodes);
+        console.log(dataJSON.repository.issues.pageInfo);
         dataJSON.repository.issues.nodes = issues;
     }
 
