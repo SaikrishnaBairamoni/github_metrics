@@ -42,7 +42,7 @@ async function queryGitHub(repoName) {
 
     // Request the data
     const dataJSON = await graphQLClient.request(query, variables);
-
+    console.log(dataJSON);
     // If the repo has more than 100 issues, get the rest of the issues
     if (dataJSON.repository.issues.pageInfo.hasNextPage) {
         var issues = await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, dataJSON.repository.issues.nodes);
