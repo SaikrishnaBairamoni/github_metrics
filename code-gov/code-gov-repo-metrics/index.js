@@ -27,7 +27,7 @@ async function queryGitHub(repoName) {
     // Create a graphQLClient
     const graphQLClient = new GraphQLClient(endpoint, {
         headers: {
-            authorization: 'Bearer ' + process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+            authorization: 'Bearer ' + process.env.METRICS_GITHUB_TOKEN,
         },
     });
 
@@ -74,7 +74,7 @@ async function queryIssuesDeep(repoName, cursor, issues) {
     // Create a graphQLClient
     const graphQLClient = new GraphQLClient(endpoint, {
         headers: {
-            authorization: 'Bearer ' + process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+            authorization: 'Bearer ' + process.env.METRICS_GITHUB_TOKEN,
         },
     });
   
@@ -118,7 +118,7 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
     // Create a graphQLClient
     const graphQLClient = new GraphQLClient(endpoint, {
         headers: {
-            authorization: 'Bearer ' + process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+            authorization: 'Bearer ' + process.env.METRICS_GITHUB_TOKEN,
         },
     });
 
