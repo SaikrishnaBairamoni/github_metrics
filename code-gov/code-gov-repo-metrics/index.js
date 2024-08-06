@@ -156,6 +156,8 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
  * @return {JSON} a JSON of metrics calculated for repo
  */
 function processRepo(repo) {
+    console.log(repo);
+    console.log("processRepo");
     // Set up
     var issueMetaData = getIssueMetaData(repo);
     var pullRequestMetaData = getPullRequestMetaData(repo);
@@ -238,6 +240,7 @@ function processRepo(repo) {
  * of that repo
  */
 function getIssueMetaData(repo) {
+     console.log(repo);
     // Set up
     var internalIssues = 0;
     var externalIssues = 0;
