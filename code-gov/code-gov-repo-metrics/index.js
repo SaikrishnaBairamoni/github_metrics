@@ -40,23 +40,33 @@ async function queryGitHub(repoName) {
         repo: repoName
     };
 
-    // Request the data
-    const dataJSON = await graphQLClient.request(query, variables);
-    console.log(dataJSON);
-    // If the repo has more than 100 issues, get the rest of the issues
-    if (dataJSON.repository.issues.pageInfo.hasNextPage) {
-        var issues = await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, dataJSON.repository.issues.nodes);
-        console.log(dataJSON.repository.issues.pageInfo);
-        dataJSON.repository.issues.nodes = issues;
-    }
+    try {
+        // Request the data
+        const dataJSON = await graphQLClient.request(query, variables);
+        if (!dataJSON.repository) {
+            console.error(`Repository data is null for ${repoName}. Check the cursor or repository name.`);
+            return null;
+        }
+        console.log(dataJSON);
 
-    // If the repo has more than 100 pull requests, get the rest of the pull requests
-    if (dataJSON.repository.pullRequests.pageInfo.hasNextPage) {
-        var pullRequests = await queryPullRequestsDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, dataJSON.repository.pullRequests.nodes);
-        dataJSON.repository.pullRequests.nodes = pullRequests;
-    }
+        // If the repo has more than 100 issues, get the rest of the issues
+        if (dataJSON.repository.issues.pageInfo.hasNextPage) {
+            var issues = await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, dataJSON.repository.issues.nodes);
+            console.log(dataJSON.repository.issues.pageInfo);
+            dataJSON.repository.issues.nodes = issues;
+        }
 
-    return dataJSON;
+        // If the repo has more than 100 pull requests, get the rest of the pull requests
+        if (dataJSON.repository.pullRequests.pageInfo.hasNextPage) {
+            var pullRequests = await queryPullRequestsDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, dataJSON.repository.pullRequests.nodes);
+            dataJSON.repository.pullRequests.nodes = pullRequests;
+        }
+
+        return dataJSON;
+    } catch (error) {
+        console.error(`Error querying GitHub for repo: ${repoName}`, error);
+        return null;
+    }
 }
 
 /**
@@ -89,15 +99,22 @@ async function queryIssuesDeep(repoName, cursor, issues) {
         cursor: cursor
     };
   
-    // Request the additional issues
-    const dataJSON = await graphQLClient.request(query, variables);
+    try {
+        // Request the additional issues
+        const dataJSON = await graphQLClient.request(query, variables);
+        if (!dataJSON.repository) {
+            console.error(`Repository data is null for ${repoName}. Check the cursor or repository name.`);
+            return issues;
+        }
+        // Push the new issues to the running issue list
+        dataJSON.repository.issues.nodes.forEach(issue => {issues.push(issue)});
 
-    // Push the new issues to the running issue list
-    dataJSON.repository.issues.nodes.forEach(issue => {issues.push(issue)});
-
-    // Recurse if there are still more issues
-    if (dataJSON.repository.issues.pageInfo.hasNextPage) {
-        return await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, issues);
+        // Recurse if there are still more issues
+        if (dataJSON.repository.issues.pageInfo.hasNextPage) {
+            return await queryIssuesDeep(repoName, dataJSON.repository.issues.pageInfo.endCursor, issues);
+        }
+    } catch (error) {
+        console.error(`Error querying issues for repo: ${repoName}`, error);
     }
 
     return issues;
@@ -133,15 +150,22 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
         cursor: cursor
     };
 
-    // Request the additional pull requests
-    const dataJSON = await graphQLClient.request(query, variables);
+    try {
+        // Request the additional pull requests
+        const dataJSON = await graphQLClient.request(query, variables);
+        if (!dataJSON.repository) {
+            console.error(`Repository data is null for ${repoName}. Check the cursor or repository name.`);
+            return pullRequests;
+        }
+        // Push the new pull requests to the running pull requests list
+        dataJSON.repository.pullRequests.nodes.forEach(pullRequest => {pullRequests.push(pullRequest)});
 
-    // Push the new pull requests to the running pull requests list
-    dataJSON.repository.pullRequests.nodes.forEach(pullRequest => {pullRequests.push(pullRequest)});
-
-    // Recurse if there are still more pull requests
-    if (dataJSON.repository.pullRequests.pageInfo.hasNextPage) {
-        return await queryIssuesDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, pullRequests);
+        // Recurse if there are still more pull requests
+        if (dataJSON.repository.pullRequests.pageInfo.hasNextPage) {
+            return await queryIssuesDeep(repoName, dataJSON.repository.pullRequests.pageInfo.endCursor, pullRequests);
+        }
+    } catch (error) {
+        console.error(`Error querying pull requests for repo: ${repoName}`, error);
     }
 
     return pullRequests;
@@ -157,8 +181,13 @@ async function queryPullRequestsDeep(repoName, cursor, pullRequests) {
  * @return {JSON} a JSON of metrics calculated for repo
  */
 function processRepo(repo) {
-    console.log(repo);
-    console.log("processRepo");
+    if (!repo || !repo.repository) {
+        console.error("Repository data is null or undefined. Skipping processing.");
+        return null;
+    }
+
+    console.log("Processing repository:", repo.repository.name);
+
     // Set up
     var issueMetaData = getIssueMetaData(repo);
     var pullRequestMetaData = getPullRequestMetaData(repo);
@@ -241,7 +270,6 @@ function processRepo(repo) {
  * of that repo
  */
 function getIssueMetaData(repo) {
-     console.log(repo);
     // Set up
     var internalIssues = 0;
     var externalIssues = 0;
@@ -411,14 +439,10 @@ function getPullRequestMetaData(repo) {
     // Iterate through each pull request of the repo
     repo.repository.pullRequests.nodes.forEach(function(pullRequest) {
         // Add contributor to all time contributors list
-       if(pullRequest.author == null)
-        {
+        if(pullRequest.author == null) {
             console.error("**************PR NULL LOGIN HERE****************");
             console.log(pullRequest);
             //there were some ghost users
-            /**
-             * https://github.com/usdot-jpo-ode/jpo-ode/pull/166
-             */
             return;
         }
         contributorsListAllTime.add(pullRequest.author.login);
@@ -492,9 +516,9 @@ function getPullRequestMetaData(repo) {
         mergedPullRequests: mergedPullRequests,
         closedPullRequests: closedPullRequests,
         openTimes: openTimes,
-        contributorsListAllTime: contributorsListAllTime,
-        contributorsListAllTimeInternal: contributorsListAllTimeInternal,
-        contributorsListAllTimeExternal: contributorsListAllTimeExternal,
+        contributorsAllTime: contributorsListAllTime,
+        contributorsAllTimeInternal: contributorsListAllTimeInternal,
+        contributorsAllTimeExternal: contributorsListAllTimeExternal,
         contributorsListThisPeriod: contributorsListThisPeriod,
         contributorsListThisPeriodInternal: contributorsListThisPeriodInternal,
         contributorsListThisPeriodExternal: contributorsListThisPeriodExternal,
@@ -584,7 +608,7 @@ async function fetchProcessAndWriteGitHubData() {
     });
 
     console.log();
-    console.log("Processing repository data ...")
+    console.log("Processing repository data ...");
 
     /** 
      * Once all of the promises have resolved, process each repo to create
@@ -593,10 +617,14 @@ async function fetchProcessAndWriteGitHubData() {
      * and then write the data to a .csv file
      */
     Promise.all(promises).then(function(repos) {
-        var data = repos.map(repo => processRepo(repo));
-        var aggregatedData = aggregateRepoData(data);
-        data.push(aggregatedData);
-        writeCSV(data);
+        var data = repos.filter(repo => repo !== null).map(repo => processRepo(repo));
+        if (data.length > 0) {
+            var aggregatedData = aggregateRepoData(data);
+            data.push(aggregatedData);
+            writeCSV(data);
+        } else {
+            console.error("No valid repository data was returned.");
+        }
     });
     console.log();
 }
@@ -732,4 +760,3 @@ if (validateCommandLineArguments()) {
     // Start the main process
     fetchProcessAndWriteGitHubData();
 }
-   
