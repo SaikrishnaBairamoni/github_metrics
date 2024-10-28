@@ -82,7 +82,6 @@
     "carma-slamtec-lidar-driver",
     "carma_ament_lint",
     "scenario-runner",
-    "carma-vesc-ssc-wrapper",
     "carla-sensor-lib",
     "cave-lite",
     "j2735decoder",
