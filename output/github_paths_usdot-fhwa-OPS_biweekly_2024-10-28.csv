@@ -1,0 +1,18 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2024-10-13,2024-10-27,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-Backend: Repository for AWS back...,1,1
+2024-10-13,2024-10-27,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend,usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend: Frontend code for Cybersecurity...,5,2
+2024-10-13,2024-10-27,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src,ITS-Secure-Prototype-Frontend/src at develop · usdot-fhwa-OPS/ITS-Secure-Prot...,2,1
+2024-10-13,2024-10-27,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend: Frontend code for Cybe...,1,1
+2024-10-13,2024-10-27,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src/common,ITS-Secure-Prototype-Frontend/src/common at develop · usdot-fhwa-OPS/ITS-Secu...,1,1
+2024-10-13,2024-10-27,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src/common/utils,ITS-Secure-Prototype-Frontend/src/common/utils at develop · usdot-fhwa-OPS/IT...,1,1
+2024-10-13,2024-10-27,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src/features,ITS-Secure-Prototype-Frontend/src/features at develop · usdot-fhwa-OPS/ITS-Se...,1,1
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,142,71
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,26,12
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,24,8
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,15,9
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/configuration/README.md,V2X-Hub/configuration/README.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,14,5
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/docs/Release_notes.md,V2X-Hub/docs/Release_notes.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,13,11
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/tools/port-drayage-webservice/src/main/resources/templates,V2X-Hub/tools/port-drayage-webservice/src/main/resources/templates at develop...,13,3
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub/PortDrayagePlugin/src,V2X-Hub/src/v2i-hub/PortDrayagePlugin/src at develop · usdot-fhwa-OPS/V2X-Hub,13,2
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/tools/port-drayage-webservice/src/main/resources,V2X-Hub/tools/port-drayage-webservice/src/main/resources at develop · usdot-f...,12,4
+2024-10-13,2024-10-27,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/tools,V2X-Hub/tools at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,11,8
