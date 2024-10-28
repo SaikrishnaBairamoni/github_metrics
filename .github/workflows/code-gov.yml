@@ -1,7 +1,7 @@
 name: code-gov
 
 env:
-  ORGS: usdot-fhwa-OPS usdot-fhwa-stol usdot-jpo-ode
+  ORGS: usdot-fhwa-OPS usdot-jpo-ode
 
 on:
   schedule:
