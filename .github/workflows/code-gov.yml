@@ -1,8 +1,7 @@
 name: code-gov
 
 env:
-  ORGS: usdot-fhwa-OPS usdot-jpo-ode
-
+  ORGS: usdot-fhwa-OPS
 on:
   schedule:
     - cron: "0 1 1 * *" # 1st of the month at 1AM
