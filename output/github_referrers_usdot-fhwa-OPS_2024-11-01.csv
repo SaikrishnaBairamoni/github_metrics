@@ -1,0 +1,17 @@
+Start date,End date,Org,Repo,Referrer,Count,Unique
+2024-10-17,2024-10-31,usdot-fhwa-OPS,.github,github.com,1,1
+2024-10-17,2024-10-31,usdot-fhwa-OPS,ITS-Secure-Prototype-App,github.com,3,1
+2024-10-17,2024-10-31,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,github.com,4,2
+2024-10-17,2024-10-31,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,github.com,12,4
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub,Google,192,44
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub,github.com,140,10
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub,Bing,18,5
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub,its.dot.gov,12,5
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub,statics.gov.teams.microsoft.us,6,4
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub,teams.microsoft.com,6,1
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub,DuckDuckGo,5,1
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub,chatgpt.com,2,1
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub,fhwa.dot.gov,1,1
+2024-10-17,2024-10-31,usdot-fhwa-OPS,V2X-Hub-UI,github.com,7,2
+2024-10-17,2024-10-31,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,github.com,3,1
+2024-10-17,2024-10-31,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,Google,1,1
