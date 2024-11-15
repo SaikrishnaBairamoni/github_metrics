@@ -1,0 +1,31 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-App,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend: Frontend code for Cybe...,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk,usdot-fhwa-OPS/ngx-traffic-cdk,6,3
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/blob/develop/README.md,ngx-traffic-cdk/README.md at develop · usdot-fhwa-OPS/ngx-traffic-cdk,2,2
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/edit/develop/README.md,Editing ngx-traffic-cdk/README.md at develop · usdot-fhwa-OPS/ngx-traffic-cdk,2,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/actions,Actions · usdot-fhwa-OPS/ngx-traffic-cdk · GitHub,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/activity,Activity · usdot-fhwa-OPS/ngx-traffic-cdk · GitHub,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/issues,Issues · usdot-fhwa-OPS/ngx-traffic-cdk · GitHub,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/labels,Labels · usdot-fhwa-OPS/ngx-traffic-cdk · GitHub,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/pulls,Pull requests · usdot-fhwa-OPS/ngx-traffic-cdk · GitHub,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/releases,Releases · usdot-fhwa-OPS/ngx-traffic-cdk,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/tree/master,usdot-fhwa-OPS/ngx-traffic-cdk at master,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,182,72
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub,102,8
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/649,Vh 1367: update telemetry list json structure and serialization deserializati...,43,3
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/647,Updated generated c structs by paulbourelly999 · Pull Request #647 · usdot-fh...,40,4
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/651,Arc 239 asn1 j2735 by paulbourelly999 · Pull Request #651 · usdot-fhwa-OPS/V2...,31,3
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/646,Update CMake to include option to select j2735 version by paulbourelly999 · P...,29,6
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/645,replaced C1T references with CDA1tenth by john-chrosniak · Pull Request #645 ...,28,4
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/646/files,Update CMake to include option to select j2735 version by paulbourelly999 · P...,26,4
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/648/files,CDA1Tenth TRB Setup by john-chrosniak · Pull Request #648 · usdot-fhwa-OPS/V2...,25,3
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,23,12
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI,usdot-fhwa-OPS/V2X-Hub-UI,5,4
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/blob/develop/configuration/README.md,File not found · GitHub,5,2
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/edit/develop/README.md,Editing V2X-Hub-UI/README.md at develop · usdot-fhwa-OPS/V2X-Hub-UI,2,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/compare,Compare · usdot-fhwa-OPS/V2X-Hub-UI,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/issues,Issues · usdot-fhwa-OPS/V2X-Hub-UI,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/issues/new/choose,New Issue · usdot-fhwa-OPS/V2X-Hub-UI,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub-UI,1,1
+2024-10-31,2024-11-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype,GitHub - usdot-fhwa-OPS/v2xhub-angular-ui-prototype: V2X-Hub Prototype Angula...,2,2
