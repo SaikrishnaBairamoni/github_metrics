@@ -1130,6 +1130,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 17,usdot-jpo-ode,jpo-geojsonconverter,2024-08-18,2,0,1,Michael7371,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2024-10-20,389,170,15,Michael7371,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2024-10-27,82,51,6,Michael7371,yes
+17,usdot-jpo-ode,jpo-geojsonconverter,2024-12-22,10,2,1,Michael7371,yes
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-08-28,664,11,4,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-09-25,61,0,1,drewjj,no
 17,usdot-jpo-ode,jpo-geojsonconverter,2022-10-09,1699,2052,17,drewjj,no
@@ -1194,6 +1195,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 18,usdot-jpo-ode,jpo-conflictmonitor,2024-11-03,333,526,5,Michael7371,yes
 18,usdot-jpo-ode,jpo-conflictmonitor,2024-11-10,3,3,1,Michael7371,yes
 18,usdot-jpo-ode,jpo-conflictmonitor,2024-11-24,16,0,1,Michael7371,yes
+18,usdot-jpo-ode,jpo-conflictmonitor,2024-12-22,13,44,4,Michael7371,yes
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-10-23,4044,61,2,John-Wiens,yes
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-10-30,514,86,2,John-Wiens,yes
 18,usdot-jpo-ode,jpo-conflictmonitor,2022-11-06,845,257,2,John-Wiens,yes
@@ -1333,7 +1335,6 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-06-09,9,9,1,dan-du-car,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-09-29,4,4,2,dan-du-car,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-02-26,518,235,6,drewjj,no
-19,usdot-jpo-ode,jpo-conflictvisualizer,2024-02-11,1850,1371,14,iyourshaw,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-07-30,3,0,1,Michael7371,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-08-13,112,86,5,Michael7371,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-08-20,145,162,8,Michael7371,yes
@@ -1341,6 +1342,10 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-09-03,5,1,1,Michael7371,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-09-10,7988,7984,1,Michael7371,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-08-25,3,3,1,Michael7371,yes
+19,usdot-jpo-ode,jpo-conflictvisualizer,2024-12-22,13,40,2,Michael7371,yes
+19,usdot-jpo-ode,jpo-conflictvisualizer,2024-02-11,1850,1371,14,iyourshaw,no
+19,usdot-jpo-ode,jpo-conflictvisualizer,2024-12-08,440,384,10,iyourshaw,no
+19,usdot-jpo-ode,jpo-conflictvisualizer,2024-12-15,860,1022,13,iyourshaw,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-01-28,14,3,2,linda-baker,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-02-11,3222,21,4,linda-baker,no
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-02-18,4,6,1,linda-baker,no
@@ -1392,6 +1397,8 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-06-09,3355,10,2,jacob6838,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-08-11,2205,1783,11,jacob6838,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-09-22,71,38,3,jacob6838,yes
+19,usdot-jpo-ode,jpo-conflictvisualizer,2024-12-01,92,17,2,jacob6838,yes
+19,usdot-jpo-ode,jpo-conflictvisualizer,2024-12-15,1,7,1,jacob6838,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-03-26,4425,101,9,John-Wiens,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-04-09,346,11,2,John-Wiens,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2023-04-23,1653,1276,4,John-Wiens,yes
@@ -1445,6 +1452,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-11-10,437,72,9,John-Wiens,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-11-17,656,7,2,John-Wiens,yes
 19,usdot-jpo-ode,jpo-conflictvisualizer,2024-11-24,120,21,6,John-Wiens,yes
+19,usdot-jpo-ode,jpo-conflictvisualizer,2024-12-15,3,252,3,John-Wiens,yes
 20,usdot-jpo-ode,jpo-cvmanager,2023-09-03,141,0,1,SaikrishnaBairamoni,yes
 20,usdot-jpo-ode,jpo-cvmanager,2023-09-24,2,2,1,SaikrishnaBairamoni,yes
 20,usdot-jpo-ode,jpo-cvmanager,2024-01-14,6945,4501,1,John-Wiens,yes
@@ -1664,6 +1672,8 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 22,usdot-jpo-ode,jpo-utils,2024-10-27,786,211,3,John-Wiens,yes
 22,usdot-jpo-ode,jpo-utils,2024-11-03,875,867,2,John-Wiens,yes
 22,usdot-jpo-ode,jpo-utils,2024-11-17,18,4,2,John-Wiens,yes
+22,usdot-jpo-ode,jpo-utils,2024-12-08,4145,66,6,John-Wiens,yes
+22,usdot-jpo-ode,jpo-utils,2024-12-15,75,3,1,John-Wiens,yes
 22,usdot-jpo-ode,jpo-utils,2024-08-25,802,342,11,iyourshaw,no
 22,usdot-jpo-ode,jpo-utils,2024-09-01,2,1,1,iyourshaw,no
 22,usdot-jpo-ode,jpo-utils,2024-11-03,4,2,2,iyourshaw,no
@@ -1676,4 +1686,6 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 22,usdot-jpo-ode,jpo-utils,2024-10-27,490,300,11,Michael7371,yes
 22,usdot-jpo-ode,jpo-utils,2024-11-03,2,3,2,Michael7371,yes
 22,usdot-jpo-ode,jpo-utils,2024-12-01,29,29,1,Michael7371,yes
+22,usdot-jpo-ode,jpo-utils,2024-12-15,166,169,5,Michael7371,yes
+22,usdot-jpo-ode,jpo-utils,2024-12-22,7,29,2,Michael7371,yes
 23,usdot-jpo-ode,jpo-deposit,2024-12-01,1,0,1,SaikrishnaBairamoni,yes
