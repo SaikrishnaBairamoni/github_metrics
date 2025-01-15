@@ -1,0 +1,22 @@
+Start date,End date,Org,Repo,Referrer,Count,Unique
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,github.com,8,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,ops.fhwa.dot.gov,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,ops.fhwa.dot.gov,7,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,github.com,3,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,ops.fhwa.dot.gov,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,github.com,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,github.com,17,2
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,statics.gov.teams.microsoft.us,4,2
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,usdot-carma.atlassian.net,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,github.com,61,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,statics.gov.teams.microsoft.us,3,2
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,Google,124,21
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,Bing,50,34
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,github.com,19,6
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,statics.gov.teams.microsoft.us,17,4
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,chatgpt.com,10,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,cn.bing.com,5,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,edgeservices.bing.com,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,search.brave.com,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,powerpoint.gov.online.office365.us,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub-UI,usdot-carma.atlassian.net,6,1

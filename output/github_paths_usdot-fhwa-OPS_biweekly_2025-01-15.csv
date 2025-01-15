@@ -1,0 +1,49 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-App,11,6
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/commits,Commits · usdot-fhwa-OPS/ITS-Secure-Prototype-App,3,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/tree/develop/linux,ITS-Secure-Prototype-App/linux at develop · usdot-fhwa-OPS/ITS-Secure-Prototy...,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,usdot-fhwa-OPS/ITS-Secure-Prototype-Backend: Repository for AWS backend confi...,2,2
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/tree/develop/dataFunctions,ITS-Secure-Prototype-Backend/dataFunctions at develop · usdot-fhwa-OPS/ITS-Se...,2,2
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/blob/develop/adminDataFunction/lambda_function.py,ITS-Secure-Prototype-Backend/adminDataFunction/lambda_function.py at develop ...,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/blob/develop/dataFunctions/lambda_function.py,ITS-Secure-Prototype-Backend/dataFunctions/lambda_function.py at develop · us...,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/blob/develop/poolFunctions/lambda_function.py,ITS-Secure-Prototype-Backend/poolFunctions/lambda_function.py at develop · us...,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/tree/develop/adminDataFunction,ITS-Secure-Prototype-Backend/adminDataFunction at develop · usdot-fhwa-OPS/IT...,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/tree/develop/poolFunctions,ITS-Secure-Prototype-Backend/poolFunctions at develop · usdot-fhwa-OPS/ITS-Se...,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend,usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend: Frontend code for Cybersecurity...,2,2
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk,usdot-fhwa-OPS/ngx-traffic-cdk,17,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/actions,Workflow runs · usdot-fhwa-OPS/ngx-traffic-cdk,9,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/tree/init-sample-cdk,usdot-fhwa-OPS/ngx-traffic-cdk at init-sample-cdk,4,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/actions/runs/12772973080,init cdk · usdot-fhwa-OPS/ngx-traffic-cdk@9010fc1,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/actions/runs/12772973080/job/35603772620,init cdk · usdot-fhwa-OPS/ngx-traffic-cdk@9010fc1,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/actions/runs/12774269552,update action version · usdot-fhwa-OPS/ngx-traffic-cdk@7cd4849,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/actions/runs/12774269552/job/35607978822,update action version · usdot-fhwa-OPS/ngx-traffic-cdk@7cd4849,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/actions/runs/12775698302/job/35612679105,update readme · usdot-fhwa-OPS/ngx-traffic-cdk@d6368bb,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/pulls,Pull requests · usdot-fhwa-OPS/ngx-traffic-cdk,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/pulse,Pulse · usdot-fhwa-OPS/ngx-traffic-cdk,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc,usdot-fhwa-OPS/pcis-poc: This is a public repository that contains web applic...,27,5
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pulls,Pull requests · usdot-fhwa-OPS/pcis-poc,12,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/5,installed aws amplify dependencies by ChrisC027 · Pull Request #5 · usdot-fhw...,10,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/5/files,installed aws amplify dependencies by ChrisC027 · Pull Request #5 · usdot-fhw...,3,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/commits/develop,Commits · usdot-fhwa-OPS/pcis-poc,3,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/tree/develop/src,pcis-poc/src at develop · usdot-fhwa-OPS/pcis-poc,3,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/tree/develop/src/assets,pcis-poc/src/assets at develop · usdot-fhwa-OPS/pcis-poc,3,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/1,remove_top_level_folder_redundancy by ChrisC027 · Pull Request #1 · usdot-fhw...,2,2
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/blob/develop/src/App.css,pcis-poc/src/App.css at develop · usdot-fhwa-OPS/pcis-poc,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/blob/develop/src/App.tsx,pcis-poc/src/App.tsx at develop · usdot-fhwa-OPS/pcis-poc,2,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,154,76
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/662,5gaa static tim by dan-du-car · Pull Request #662 · usdot-fhwa-OPS/V2X-Hub · ...,19,6
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/configuration/README.md,V2X-Hub/configuration/README.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,15,7
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub · GitHub,15,4
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/662/files,5gaa static tim by dan-du-car · Pull Request #662 · usdot-fhwa-OPS/V2X-Hub · ...,14,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/.devcontainer/devcontainer.json,V2X-Hub/.devcontainer/devcontainer.json at develop · usdot-fhwa-OPS/V2X-Hub,10,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/commit/0efb3f9fb480f147a78b3769ef35d676d061414f,Arc 252 carma j2735 (#654) · usdot-fhwa-OPS/V2X-Hub@0efb3f9,9,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/.devcontainer/docker-compose-vscode.yml,V2X-Hub/.devcontainer/docker-compose-vscode.yml at develop · usdot-fhwa-OPS/V...,7,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/657,Feature/ped plugin additions by jwillmartin · Pull Request #657 · usdot-fhwa-...,6,4
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub,6,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI,usdot-fhwa-OPS/V2X-Hub-UI,5,3
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/branches,Branches · usdot-fhwa-OPS/V2X-Hub-UI,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub-UI,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/tree/develop,usdot-fhwa-OPS/V2X-Hub-UI,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,V2X-Hub-UI,/usdot-fhwa-OPS/V2X-Hub-UI/tree/master,usdot-fhwa-OPS/V2X-Hub-UI at master,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype,usdot-fhwa-OPS/v2xhub-angular-ui-prototype: V2X-Hub Prototype Angular UI,1,1
+2024-12-31,2025-01-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/blob/prototype/package.json,v2xhub-angular-ui-prototype/package.json at prototype · usdot-fhwa-OPS/v2xhub...,1,1
