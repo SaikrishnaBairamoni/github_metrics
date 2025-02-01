@@ -1,7 +1,7 @@
 count,org,repo,week,additions,deletions,commits,author,is a member
+1,usdot-fhwa-OPS,V2X-Hub,2021-01-03,45,55,1,afrye51,no
 1,usdot-fhwa-OPS,V2X-Hub,2019-05-19,3,1,1,MatthewJMcAllister,no
 1,usdot-fhwa-OPS,V2X-Hub,2023-07-02,69,4,1,gainesaw,yes
-1,usdot-fhwa-OPS,V2X-Hub,2021-01-03,45,55,1,afrye51,no
 1,usdot-fhwa-OPS,V2X-Hub,2024-08-25,71,0,1,maefromm,yes
 1,usdot-fhwa-OPS,V2X-Hub,2022-11-27,1,1,1,saina-ramyar,no
 1,usdot-fhwa-OPS,V2X-Hub,2023-04-09,128,10,1,saina-ramyar,no
@@ -82,6 +82,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2024-12-01,216,102,1,jwillmartin,yes
 1,usdot-fhwa-OPS,V2X-Hub,2024-12-08,1072,658,6,jwillmartin,yes
 1,usdot-fhwa-OPS,V2X-Hub,2024-12-15,33,38,1,jwillmartin,yes
+1,usdot-fhwa-OPS,V2X-Hub,2025-01-19,5,4,1,jwillmartin,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-03-03,243,172,23,snallamothu,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-03-17,284,120,5,snallamothu,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-05-26,413,0,1,snallamothu,yes
@@ -319,6 +320,7 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 1,usdot-fhwa-OPS,V2X-Hub,2024-11-03,12,13,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2024-12-08,724,513,2,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2024-12-22,122,80,2,paulbourelly999,yes
+1,usdot-fhwa-OPS,V2X-Hub,2025-01-19,820,560,1,paulbourelly999,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-03-10,26055,107,5,animeshb27,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-03-17,7505,220,9,animeshb27,yes
 1,usdot-fhwa-OPS,V2X-Hub,2019-03-31,5,8,1,animeshb27,yes
@@ -399,8 +401,13 @@ count,org,repo,week,additions,deletions,commits,author,is a member
 6,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,2024-08-25,767,78,2,paulbourelly999,yes
 6,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,2024-09-01,67,528,1,paulbourelly999,yes
 6,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,2024-09-08,308,109,2,paulbourelly999,yes
-7,usdot-fhwa-OPS,V2X-Hub-UI,2024-10-27,29,1,2,SaikrishnaBairamoni,yes
+7,usdot-fhwa-OPS,v2x-hub-ui,2025-01-26,14885,0,1,mpalash95,yes
+7,usdot-fhwa-OPS,v2x-hub-ui,2024-10-27,29,1,2,SaikrishnaBairamoni,yes
+8,usdot-fhwa-OPS,ngx-traffic-cdk,2025-01-12,15927,3,1,dan-du-car,yes
 8,usdot-fhwa-OPS,ngx-traffic-cdk,2024-11-10,29,1,2,SaikrishnaBairamoni,yes
 9,usdot-fhwa-OPS,pcis-poc,2024-12-08,2,0,1,SaikrishnaBairamoni,yes
 9,usdot-fhwa-OPS,pcis-poc,2024-12-08,7102,3561,4,ChrisC027,yes
 9,usdot-fhwa-OPS,pcis-poc,2024-12-15,363,5,5,ChrisC027,yes
+9,usdot-fhwa-OPS,pcis-poc,2025-01-12,30278,2053,1,ChrisC027,yes
+9,usdot-fhwa-OPS,pcis-poc,2025-01-19,1434,240,10,ChrisC027,yes
+9,usdot-fhwa-OPS,pcis-poc,2025-01-26,129,12,1,ChrisC027,yes
