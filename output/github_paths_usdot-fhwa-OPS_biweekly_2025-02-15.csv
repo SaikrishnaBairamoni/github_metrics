@@ -1,0 +1,35 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2025-01-31,2025-02-14,usdot-fhwa-OPS,.github,/usdot-fhwa-OPS/.github,usdot-fhwa-OPS/.github,4,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,.github,/usdot-fhwa-OPS/.github/tree/develop/.github,.github/.github at develop · usdot-fhwa-OPS/.github,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App,usdot-fhwa-OPS/ITS-Secure-Prototype-App,2,2
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/pulls,Pull requests · usdot-fhwa-OPS/ITS-Secure-Prototype-App,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,usdot-fhwa-OPS/ITS-Secure-Prototype-Backend: Repository for AWS backend confi...,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend/tree/master,usdot-fhwa-OPS/ITS-Secure-Prototype-Backend at master,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend,usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend: Frontend code for Cybersecurity...,2,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/master,usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend at master,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk,usdot-fhwa-OPS/ngx-traffic-cdk,2,2
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk/tree/develop/projects/traffic-cdk-map,ngx-traffic-cdk/projects/traffic-cdk-map at develop · usdot-fhwa-OPS/ngx-traf...,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pulls,Pull requests · usdot-fhwa-OPS/pcis-poc · GitHub,159,4
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc,usdot-fhwa-OPS/pcis-poc: This is a public repository that contains web applic...,104,10
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/11,"PCISMVP-2 Terminal Operator Flow - Booking Status Table (Requested, Ongoing, ...",47,5
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/tree/PCISMVP-2-Terminal-Operator-Flow-Booking-Status-Table-Requested-Ongoing-Completed-Dummy-Data,usdot-fhwa-OPS/pcis-poc at PCISMVP-2-Terminal-Operator-Flow-Booking-Status-Ta...,34,2
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/17,added query to upcoming cargo table in terminal operator by ChrisC027 · Pull ...,24,3
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/10,Pcis1/available users table by radishco · Pull Request #10 · usdot-fhwa-OPS/p...,22,5
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/19,Backend connect bco upcoming by ChrisC027 · Pull Request #19 · usdot-fhwa-OPS...,19,4
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/9,amplify configuration for S3 bucket by ChrisC027 · Pull Request #9 · usdot-fh...,18,6
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/14,Pcismvp25/cargodb by ChrisC027 · Pull Request #14 · usdot-fhwa-OPS/pcis-poc,18,3
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/8,Hamburger Menu and Routing Implementation by ChrisC027 · Pull Request #8 · us...,17,5
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,219,115
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/674,"MOM and ActionObject Converters, Miscellaneous MOM handling updates for CDA 1...",58,7
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/configuration/README.md,V2X-Hub/configuration/README.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,36,22
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,33,14
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/674/files,"MOM and ActionObject Converters, Miscellaneous MOM handling updates for CDA 1...",32,5
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop,V2X-Hub/ at develop · usdot-fhwa-OPS/V2X-Hub,30,15
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/docs,V2X-Hub/docs at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,29,10
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,23,13
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/issues,Issues · usdot-fhwa-OPS/V2X-Hub,23,8
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/configuration,V2X-Hub/configuration at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,23,7
+2025-01-31,2025-02-14,usdot-fhwa-OPS,v2x-hub-ui,/usdot-fhwa-OPS/v2x-hub-ui,usdot-fhwa-OPS/v2x-hub-ui,2,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype,usdot-fhwa-OPS/v2xhub-angular-ui-prototype: V2X-Hub Prototype Angular UI,4,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/pulls,Pull requests · usdot-fhwa-OPS/v2xhub-angular-ui-prototype,2,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/pull/1,Investigate Angular/Grafana integration by dan-du-car · Pull Request #1 · usd...,1,1

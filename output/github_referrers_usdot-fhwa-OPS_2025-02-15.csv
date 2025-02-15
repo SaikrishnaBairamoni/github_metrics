@@ -1,0 +1,23 @@
+Start date,End date,Org,Repo,Referrer,Count,Unique
+2025-01-31,2025-02-14,usdot-fhwa-OPS,.github,github.com,5,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,github.com,10,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,github.com,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,github.com,6,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,ngx-traffic-cdk,github.com,5,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,github.com,144,4
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,statics.gov.teams.microsoft.us,76,5
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,usdot-carma.atlassian.net,50,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,devpost.com,5,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,pcis-poc,github.atlassian.com,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,Google,308,51
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,github.com,121,14
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,Bing,49,37
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,usdot-carma.atlassian.net,8,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,statics.teams.cdn.office.net,6,2
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,statics.gov.teams.microsoft.us,5,5
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,chatgpt.com,5,3
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,its.dot.gov,4,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,usdot-oss4its.atlassian.net,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,V2X-Hub,DuckDuckGo,1,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,v2x-hub-ui,github.com,9,1
+2025-01-31,2025-02-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,github.com,15,1
