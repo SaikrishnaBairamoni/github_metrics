@@ -1,0 +1,43 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App,usdot-fhwa-OPS/ITS-Secure-Prototype-App,5,4
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/blob/develop/lib/models/devices.dart,ITS-Secure-Prototype-App/lib/models/devices.dart at develop · usdot-fhwa-OPS/...,1,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/blob/develop/lib/models/devices_repository.dart,ITS-Secure-Prototype-App/lib/models/devices_repository.dart at develop · usdo...,1,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/blob/develop/lib/views/settings_screen.dart,ITS-Secure-Prototype-App/lib/views/settings_screen.dart at develop · usdot-fh...,1,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/tree/develop/ios,ITS-Secure-Prototype-App/ios at develop · usdot-fhwa-OPS/ITS-Secure-Prototype...,1,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-App,/usdot-fhwa-OPS/ITS-Secure-Prototype-App/tree/develop/lib/models,ITS-Secure-Prototype-App/lib/models at develop · usdot-fhwa-OPS/ITS-Secure-Pr...,1,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Backend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Backend,GitHub - usdot-fhwa-OPS/ITS-Secure-Prototype-Backend: Repository for AWS back...,2,2
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend,usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend: Frontend code for Cybersecurity...,5,4
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/blob/develop/src/api/DeviceApi.js,ITS-Secure-Prototype-Frontend/src/api/DeviceApi.js at develop · usdot-fhwa-OP...,3,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/blob/develop/src/config/AxiosConfig.js,ITS-Secure-Prototype-Frontend/src/config/AxiosConfig.js at develop · usdot-fh...,2,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/blob/develop/src/config/AxiosStore.js,ITS-Secure-Prototype-Frontend/src/config/AxiosStore.js at develop · usdot-fhw...,2,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/blob/develop/src/config/AxiosUtil.js,ITS-Secure-Prototype-Frontend/src/config/AxiosUtil.js at develop · usdot-fhwa...,2,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src,ITS-Secure-Prototype-Frontend/src at develop · usdot-fhwa-OPS/ITS-Secure-Prot...,2,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src/api,ITS-Secure-Prototype-Frontend/src/api at develop · usdot-fhwa-OPS/ITS-Secure-...,2,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/tree/develop/src/config,ITS-Secure-Prototype-Frontend/src/config at develop · usdot-fhwa-OPS/ITS-Secu...,2,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ITS-Secure-Prototype-Frontend,/usdot-fhwa-OPS/ITS-Secure-Prototype-Frontend/blob/develop/src/config/AxiosRefreshToken.js,ITS-Secure-Prototype-Frontend/src/config/AxiosRefreshToken.js at develop · us...,1,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,ngx-traffic-cdk,/usdot-fhwa-OPS/ngx-traffic-cdk,GitHub - usdot-fhwa-OPS/ngx-traffic-cdk,1,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pulls,Pull requests · usdot-fhwa-OPS/pcis-poc,66,4
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc,usdot-fhwa-OPS/pcis-poc: This is a public repository that contains web applic...,43,6
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/39,pcismvp42/added columns to mak Late for Pick UP in terminal operator … by mpa...,14,2
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/42,changed routing from booking to reservation by ChrisC027 · Pull Request #42 ·...,12,3
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/tree/develop/src,pcis-poc/src at develop · usdot-fhwa-OPS/pcis-poc · GitHub,10,3
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/29,list users using AWS SDK by ChrisC027 · Pull Request #29 · usdot-fhwa-OPS/pci...,10,2
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/36,fixed changing of port capacity by ChrisC027 · Pull Request #36 · usdot-fhwa-...,9,2
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/41,allow transportation operator to mark pickup if container status is late by C...,9,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/28,Pcismvp17/pickup checkbox by ChrisC027 · Pull Request #28 · usdot-fhwa-OPS/pc...,8,2
+2025-02-28,2025-03-14,usdot-fhwa-OPS,pcis-poc,/usdot-fhwa-OPS/pcis-poc/pull/41/files,allow transportation operator to mark pickup if container status is late by C...,8,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub,usdot-fhwa-OPS/V2X-Hub: V2X Hub is a message handler that acts as a translato...,223,111
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pulls,Pull requests · usdot-fhwa-OPS/V2X-Hub · GitHub,57,7
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src,V2X-Hub/src at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,40,10
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/tree/develop/src/v2i-hub,V2X-Hub/src/v2i-hub at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,32,10
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/679,Update build_v2xhub_docker_image.yml by paulbourelly999 · Pull Request #679 ·...,25,18
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/687,Fix MAP Plugin not broadcasting MAP in simulation by paulbourelly999 · Pull R...,22,3
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/blob/develop/docs/Release_notes.md,V2X-Hub/docs/Release_notes.md at develop · usdot-fhwa-OPS/V2X-Hub · GitHub,15,7
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/686,Update log level for Immediate Forward plugin msg by adev4a · Pull Request #6...,15,2
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/687/files,Fix MAP Plugin not broadcasting MAP in simulation by paulbourelly999 · Pull R...,14,3
+2025-02-28,2025-03-14,usdot-fhwa-OPS,V2X-Hub,/usdot-fhwa-OPS/V2X-Hub/pull/680,Fix message logger plugin by jwillmartin · Pull Request #680 · usdot-fhwa-OPS...,13,4
+2025-02-28,2025-03-14,usdot-fhwa-OPS,v2x-hub-ui,/usdot-fhwa-OPS/v2x-hub-ui,usdot-fhwa-OPS/v2x-hub-ui,2,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,v2x-hub-ui,/usdot-fhwa-OPS/v2x-hub-ui/blob/develop/configuration/README.md,File not found,2,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype,GitHub - usdot-fhwa-OPS/v2xhub-angular-ui-prototype: V2X-Hub Prototype Angula...,1,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/blob/prototype/src/index.html,v2xhub-angular-ui-prototype/src/index.html at prototype · usdot-fhwa-OPS/v2xh...,1,1
+2025-02-28,2025-03-14,usdot-fhwa-OPS,v2xhub-angular-ui-prototype,/usdot-fhwa-OPS/v2xhub-angular-ui-prototype/tree/prototype/src,v2xhub-angular-ui-prototype/src at prototype · usdot-fhwa-OPS/v2xhub-angular-...,1,1
