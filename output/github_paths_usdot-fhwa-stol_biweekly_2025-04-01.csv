@@ -1,0 +1,434 @@
+Start date,End date,Org,Repo,Path,Title,Count,Unique
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions,usdot-fhwa-stol/actions: These actions are commonly used steps in STOL's GitH...,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions/blob/main/docker-org-and-tag/action.yml,actions/docker-org-and-tag/action.yml at main · usdot-fhwa-stol/actions,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions/tree/main/docker-org-and-tag,actions/docker-org-and-tag at main · usdot-fhwa-stol/actions,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions/pulls,Pull requests · usdot-fhwa-stol/actions,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions/blob/main/build-cpp-library/action.yml,actions/build-cpp-library/action.yml at main · usdot-fhwa-stol/actions,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions/blob/main/.github/workflows/dockerhub.yml,actions/.github/workflows/dockerhub.yml at main · usdot-fhwa-stol/actions,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions/edit/main/docker-org-and-tag/action.yml,Editing actions/docker-org-and-tag/action.yml at main · usdot-fhwa-stol/actions,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions/pull/56,Arc 275 update cpp module build by adev4a · Pull Request #56 · usdot-fhwa-sto...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions/pull/56/files,Arc 275 update cpp module build by adev4a · Pull Request #56 · usdot-fhwa-sto...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,actions,/usdot-fhwa-stol/actions/pull/58,Fix architecture for deb 3 upload by paulbourelly999 · Pull Request #58 · usd...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness,usdot-fhwa-stol/ads-road-feature-readiness,35,11
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness/blob/develop/FHWA%20Project%20-%20Road%20Features%20for%20ADS%20Readiness%20Framework%20Inventory%20%20Condition%20Assessment%20Development.xlsx,ads-road-feature-readiness/FHWA Project - Road Features for ADS Readiness Fra...,25,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness/blob/develop/README.md,ads-road-feature-readiness/README.md at develop · usdot-fhwa-stol/ads-road-fe...,9,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness/blame/develop/FHWA%20Project%20-%20Road%20Features%20for%20ADS%20Readiness%20Framework%20Inventory%20%20Condition%20Assessment%20Development.xlsx,Blaming ads-road-feature-readiness/FHWA Project - Road Features for ADS Readi...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness/blob/develop/FHWA%20Project%20-%20Road%20Features%20for%20ADS%20Readiness%20Framework%20Inventory%20%20Condition%20Assessment%20Development.csv,ads-road-feature-readiness/FHWA Project - Road Features for ADS Readiness Fra...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness/blob/develop/FHWA%20Project-TEST-MEMO2.csv,ads-road-feature-readiness/FHWA Project-TEST-MEMO2.csv at develop · usdot-fhw...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness/upload,Processing your files…,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness/blame/develop/README.md,Blaming ads-road-feature-readiness/README.md at develop · usdot-fhwa-stol/ads...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness/edit/develop/FHWA%20Project%20-%20Road%20Features%20for%20ADS%20Readiness%20Framework%20Inventory%20%20Condition%20Assessment%20Development.xlsx,Editing ads-road-feature-readiness/FHWA Project - Road Features for ADS Readi...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-road-feature-readiness,/usdot-fhwa-stol/ads-road-feature-readiness/upload/develop,Upload files · usdot-fhwa-stol/ads-road-feature-readiness,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-traffic-regs,/usdot-fhwa-stol/ads-traffic-regs,usdot-fhwa-stol/ads-traffic-regs,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,ads-traffic-regs,/usdot-fhwa-stol/ads-traffic-regs/tree/cherneysp-initial,usdot-fhwa-stol/ads-traffic-regs at cherneysp-initial,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter/pull/2,feature/validation & parsing by BhanuYeswanthReddy03 · Pull Request #2 · usdo...,25,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter,usdot-fhwa-stol/asn1-specification-splitter: This is a public repository that...,23,8
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter/pulls,Pull requests · usdot-fhwa-stol/asn1-specification-splitter,22,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter/pull/1,Initial project setup by BhanuYeswanthReddy03 · Pull Request #1 · usdot-fhwa-...,21,6
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter/pull/2/files,feature/validation & parsing by BhanuYeswanthReddy03 · Pull Request #2 · usdo...,12,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter/pull/1/files,Initial project setup by BhanuYeswanthReddy03 · Pull Request #1 · usdot-fhwa-...,10,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter/pull/2/commits,feature/validation & parsing by BhanuYeswanthReddy03 · Pull Request #2 · usdo...,9,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter/branches,Branches · usdot-fhwa-stol/asn1-specification-splitter,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter/pull/1/commits,Initial project setup by BhanuYeswanthReddy03 · Pull Request #1 · usdot-fhwa-...,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,asn1-specification-splitter,/usdot-fhwa-stol/asn1-specification-splitter/tree/feature/intitial-setup,usdot-fhwa-stol/asn1-specification-splitter at feature/intitial-setup,5,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto,usdot-fhwa-stol/autoware.auto,9,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto/actions,Workflow runs · usdot-fhwa-stol/autoware.auto,6,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto/blob/release/timtsp/Dockerfile,autoware.auto/Dockerfile at release/timtsp · usdot-fhwa-stol/autoware.auto,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto/blob/release/timtsp/docker/checkout.bash,autoware.auto/docker/checkout.bash at release/timtsp · usdot-fhwa-stol/autowa...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto/tree/release/timtsp,usdot-fhwa-stol/autoware.auto at release/timtsp,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto/tree/release/timtsp/docker,autoware.auto/docker at release/timtsp · usdot-fhwa-stol/autoware.auto,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto/tree/sync_test_run,usdot-fhwa-stol/autoware.auto at sync_test_run,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto/blob/develop/AutowareAuto/src/control/trajectory_follower/include/trajectory_follower/vehicle_model/vehicle_model_bicycle_dynamics.hpp,autoware.auto/AutowareAuto/src/control/trajectory_follower/include/trajectory...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto/blob/develop/AutowareAuto/src/control/trajectory_follower/include/trajectory_follower/vehicle_model/vehicle_model_bicycle_kinematics.hpp,autoware.auto/AutowareAuto/src/control/trajectory_follower/include/trajectory...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,autoware.auto,/usdot-fhwa-stol/autoware.auto/blob/develop/AutowareAuto/src/control/trajectory_follower/include/trajectory_follower/vehicle_model/vehicle_model_bicycle_kinematics_no_delay.hpp,autoware.auto/AutowareAuto/src/control/trajectory_follower/include/trajectory...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,c1t-tools,/usdot-fhwa-stol/c1t-tools,usdot-fhwa-stol/c1t-tools: Tools for use with CARMA 1tenth,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,c2c-mvt,/usdot-fhwa-stol/c2c-mvt,usdot-fhwa-stol/c2c-mvt: The Center-To-Center Message Validation Tool describ...,3,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,c2c-mvt,/usdot-fhwa-stol/c2c-mvt/tree/develop/src,c2c-mvt/src at develop · usdot-fhwa-stol/c2c-mvt,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,c2c-mvt,/usdot-fhwa-stol/c2c-mvt/tree/develop,usdot-fhwa-stol/c2c-mvt: The Center-To-Center Message Validation Tool describ...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,c2c-mvt,/usdot-fhwa-stol/c2c-mvt/tree/develop/src/main,c2c-mvt/src/main at develop · usdot-fhwa-stol/c2c-mvt,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,c2c-mvt,/usdot-fhwa-stol/c2c-mvt/tree/feature_develop_ui,usdot-fhwa-stol/c2c-mvt at feature_develop_ui,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib,usdot-fhwa-stol/carla-sensor-lib,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib/actions,Workflow runs · usdot-fhwa-stol/carla-sensor-lib,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib/tree/release/timtsp,usdot-fhwa-stol/carla-sensor-lib at release/timtsp,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib/tree/sync_test_run,usdot-fhwa-stol/carla-sensor-lib at sync_test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib/tree/release/test_run,usdot-fhwa-stol/carla-sensor-lib at release/test_run,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib/compare,Compare · usdot-fhwa-stol/carla-sensor-lib,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib/compare/sync_test_run...develop,Comparing sync_test_run...develop · usdot-fhwa-stol/carla-sensor-lib,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib/compare/sync_test_run...release/test_run,Comparing sync_test_run...release/test_run · usdot-fhwa-stol/carla-sensor-lib,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib/pull/20,Merge release to develop for release 4.5.0 by paulbourelly999 · Pull Request ...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carla-sensor-lib,/usdot-fhwa-stol/carla-sensor-lib/pulls,Pull requests · usdot-fhwa-stol/carla-sensor-lib,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-1-tenth,/usdot-fhwa-stol/carma-1-tenth,usdot-fhwa-stol/carma-1-tenth: Coming Soon. CARMA 1Tenth will operate CARMA P...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda,"usdot-fhwa-stol/carma-analytics-fotda: CARMA Analytics is a secure, scalable ...",9,7
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda/actions,Workflow runs · usdot-fhwa-stol/carma-analytics-fotda,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda/tree/sync_test_run,usdot-fhwa-stol/carma-analytics-fotda at sync_test_run,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda/tree/develop/src/carma-platform,carma-analytics-fotda/src/carma-platform at develop · usdot-fhwa-stol/carma-a...,3,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda/tree/develop/src,carma-analytics-fotda/src at develop · usdot-fhwa-stol/carma-analytics-fotda,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda/blob/develop/src/rosbag_analysis_tools/scripts/analyze_port_drayage_rosbags.py,carma-analytics-fotda/src/rosbag_analysis_tools/scripts/analyze_port_drayage_...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda/tree/release/test_run,usdot-fhwa-stol/carma-analytics-fotda at release/test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda/blob/87e8a8e5aac16218f8d50c47bd96b97d198f2864/src/rosbag_analysis_tools/scripts/analyze_ihp2_rosbags.py,carma-analytics-fotda/src/rosbag_analysis_tools/scripts/analyze_ihp2_rosbags....,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda/blob/develop/src/carma-platform/guidance_scripts.py,carma-analytics-fotda/src/carma-platform/guidance_scripts.py at develop · usd...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-analytics-fotda,/usdot-fhwa-stol/carma-analytics-fotda/tree/develop/src/rosbag_analysis_tools/scripts,carma-analytics-fotda/src/rosbag_analysis_tools/scripts at develop · usdot-fh...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base,"usdot-fhwa-stol/carma-base: Docker base image for the CARMA Platform, bakes i...",38,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base/actions,Workflow runs · usdot-fhwa-stol/carma-base,33,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base/pulls,Pull requests · usdot-fhwa-stol/carma-base,17,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base/actions/workflows/dockerhub-humble.yml,Docker Hub Humble build · Workflow runs · usdot-fhwa-stol/carma-base,14,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base/actions/workflows/dockerhub-noetic.yml,Docker Hub Noetic build · Workflow runs · usdot-fhwa-stol/carma-base,10,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base/pull/241,Update more dependencies by MishkaMN · Pull Request #241 · usdot-fhwa-stol/ca...,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base/pull/241/files,Update more dependencies by MishkaMN · Pull Request #241 · usdot-fhwa-stol/ca...,5,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base/actions/runs/13993472877,Docker Hub Noetic build · usdot-fhwa-stol/carma-base@4ff9d3e,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base/compare,Compare · usdot-fhwa-stol/carma-base,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-base,/usdot-fhwa-stol/carma-base/pull/242,Update ros_packages.txt by MishkaMN · Pull Request #242 · usdot-fhwa-stol/car...,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration/actions,Workflow runs · usdot-fhwa-stol/carma-carla-integration,35,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration,usdot-fhwa-stol/carma-carla-integration: Integration nodes for interfacing CA...,31,9
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration/pulls,Pull requests · usdot-fhwa-stol/carma-carla-integration,11,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration/actions/runs/13994825528,change the base image to noetic · usdot-fhwa-stol/carma-carla-integration@391...,10,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration/actions/runs/13994825528/job/39187252122,change the base image to noetic · usdot-fhwa-stol/carma-carla-integration@391...,7,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration/actions/workflows/dockerhub.yml,Docker Hub build · Workflow runs · usdot-fhwa-stol/carma-carla-integration,7,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration/actions/runs/13992860636,Docker Hub build · usdot-fhwa-stol/carma-carla-integration@dd03cbf,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration/tree/release/timtsp,usdot-fhwa-stol/carma-carla-integration at release/timtsp,6,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration/actions/runs/13993010809,Update config to point timtsp images · usdot-fhwa-stol/carma-carla-integratio...,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-carla-integration,/usdot-fhwa-stol/carma-carla-integration/actions/runs/13996787038/job/39196023989,Docker Hub build · usdot-fhwa-stol/carma-carla-integration@391c634,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-cloud,/usdot-fhwa-stol/carma-cloud,usdot-fhwa-stol/carma-cloud: Now available! Cloud-based open source software ...,14,9
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-cloud,/usdot-fhwa-stol/carma-cloud/blob/develop/cc_traffic_control_messages_asn1.txt,carma-cloud/cc_traffic_control_messages_asn1.txt at develop · usdot-fhwa-stol...,7,6
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-cloud,/usdot-fhwa-stol/carma-cloud/blob/develop/README.md,carma-cloud/README.md at develop · usdot-fhwa-stol/carma-cloud · GitHub,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-cloud,/usdot-fhwa-stol/carma-cloud/blob/master/cc_traffic_control_messages_asn1.txt,carma-cloud/cc_traffic_control_messages_asn1.txt at master · usdot-fhwa-stol/...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-cloud,/usdot-fhwa-stol/carma-cloud/releases/tag/carma-system-4.6.1,Release carma-system-4.6.1 · usdot-fhwa-stol/carma-cloud,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-cloud,/usdot-fhwa-stol/carma-cloud/tree/develop,usdot-fhwa-stol/carma-cloud: Now available! Cloud-based open source software ...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-cloud,/usdot-fhwa-stol/carma-cloud/tree/master,usdot-fhwa-stol/carma-cloud at master,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config,usdot-fhwa-stol/carma-config: System configuration data for CARMA vehicle/veh...,31,14
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config/pulls,Pull requests · usdot-fhwa-stol/carma-config,15,6
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config/pull/441,Update longitudinal_controller_defaults.yaml by chengyuan0124 · Pull Request ...,9,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config/pull/444,update can device for fusion by adev4a · Pull Request #444 · usdot-fhwa-stol/...,7,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config/blob/develop/freightliner_cascadia_2012_dot_10002/VehicleConfigParams.yaml,carma-config/freightliner_cascadia_2012_dot_10002/VehicleConfigParams.yaml at...,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config/pull/444/files,update can device for fusion by adev4a · Pull Request #444 · usdot-fhwa-stol/...,5,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config/tree/carma-system-4.9.0,usdot-fhwa-stol/carma-config at carma-system-4.9.0,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config/pull/441/files,Update longitudinal_controller_defaults.yaml by chengyuan0124 · Pull Request ...,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config/pull/442,Enable a real-time foxglove example by MishkaMN · Pull Request #442 · usdot-f...,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-config,/usdot-fhwa-stol/carma-config/pull/442/files,Enable a real-time foxglove example by MishkaMN · Pull Request #442 · usdot-f...,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-esr-driver,/usdot-fhwa-stol/carma-delphi-esr-driver/tree/develop/delphi_esr_driver,carma-delphi-esr-driver/delphi_esr_driver at develop · usdot-fhwa-stol/carma-...,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-esr-driver,/usdot-fhwa-stol/carma-delphi-esr-driver,usdot-fhwa-stol/carma-delphi-esr-driver: Delphi ESR driver for CARMA Platform,4,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-esr-driver,/usdot-fhwa-stol/carma-delphi-esr-driver/tree/develop/delphi_esr_driver/src,carma-delphi-esr-driver/delphi_esr_driver/src at develop · usdot-fhwa-stol/ca...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-esr-driver,/usdot-fhwa-stol/carma-delphi-esr-driver/tree/develop/delphi_esr_driver/tests,carma-delphi-esr-driver/delphi_esr_driver/tests at develop · usdot-fhwa-stol/...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-srr2-driver,/usdot-fhwa-stol/carma-delphi-srr2-driver,GitHub - usdot-fhwa-stol/carma-delphi-srr2-driver: Driver wrapper for Delphi ...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-srr2-driver,/usdot-fhwa-stol/carma-delphi-srr2-driver/blob/develop/delphi_srr2_radar_driver_wrapper/src/delphi_srr2_radar_driver_wrapper_worker.cpp,carma-delphi-srr2-driver/delphi_srr2_radar_driver_wrapper/src/delphi_srr2_rad...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-srr2-driver,/usdot-fhwa-stol/carma-delphi-srr2-driver/blob/develop/delphi_srr2_radar_driver_wrapper/src/main.cpp,carma-delphi-srr2-driver/delphi_srr2_radar_driver_wrapper/src/main.cpp at dev...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-srr2-driver,/usdot-fhwa-stol/carma-delphi-srr2-driver/blob/develop/README.md,carma-delphi-srr2-driver/README.md at develop · usdot-fhwa-stol/carma-delphi-...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-srr2-driver,/usdot-fhwa-stol/carma-delphi-srr2-driver/tree/develop/delphi_srr2_radar_driver_wrapper,carma-delphi-srr2-driver/delphi_srr2_radar_driver_wrapper at develop · usdot-...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-srr2-driver,/usdot-fhwa-stol/carma-delphi-srr2-driver/tree/develop/delphi_srr2_radar_driver_wrapper/src,carma-delphi-srr2-driver/delphi_srr2_radar_driver_wrapper/src at develop · us...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-delphi-srr2-driver,/usdot-fhwa-stol/carma-delphi-srr2-driver/tree/develop/docker,carma-delphi-srr2-driver/docker at develop · usdot-fhwa-stol/carma-delphi-srr...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools/tree/feature/basic_travel_simulator/carma-platform/basic_travel_simulator,carma-developer-tools/carma-platform/basic_travel_simulator at feature/basic_...,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools/tree/feature/basic_travel_simulator/carma-platform,carma-developer-tools/carma-platform at feature/basic_travel_simulator · usdo...,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools,usdot-fhwa-stol/carma-developer-tools: This repository is designed to collect...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools/tree/develop/carma-platform,carma-developer-tools/carma-platform at develop · usdot-fhwa-stol/carma-devel...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools/tree/feature/basic_travel_simulator,usdot-fhwa-stol/carma-developer-tools at feature/basic_travel_simulator,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools/tree/develop/carma-platform/basic_travel_simulator,carma-developer-tools/carma-platform/basic_travel_simulator at develop · usdo...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools/issues,GitHub · Where software is built,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools/issues/3,Add build instructions for basic_travel_simulator · Issue #3 · usdot-fhwa-sto...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools/blob/develop/carma-platform/basic_travel_simulator/CMakeLists.txt,carma-developer-tools/carma-platform/basic_travel_simulator/CMakeLists.txt at...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-developer-tools,/usdot-fhwa-stol/carma-developer-tools/blob/develop/carma-platform/basic_travel_simulator/package.xml,carma-developer-tools/carma-platform/basic_travel_simulator/package.xml at de...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper,usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper: CARMA driver wrapp...,7,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper/actions,Workflow runs · usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper,7,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper/pull/88,use new tags by MishkaMN · Pull Request #88 · usdot-fhwa-stol/carma-garmin-li...,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper/pull/88/files,use new tags by MishkaMN · Pull Request #88 · usdot-fhwa-stol/carma-garmin-li...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper/actions/runs/14023998308,fix · usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper@8c6a77d,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper/tree/sync_test_run,usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper at sync_test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper/pulls,Pull requests · usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper/actions/runs/14023943164,update config to point release/test_run · usdot-fhwa-stol/carma-garmin-lidar-...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper/actions/runs/14047536905,update config to point master builds · usdot-fhwa-stol/carma-garmin-lidar-lit...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-garmin-lidar-lite-v3-driver-wrapper,/usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper/tree/release/test_run,usdot-fhwa-stol/carma-garmin-lidar-lite-v3-driver-wrapper at release/test_run,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver/actions,Workflow runs · usdot-fhwa-stol/carma-lightbar-driver · GitHub,14,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver,usdot-fhwa-stol/carma-lightbar-driver: CARMALightbarDriver is the driver for ...,8,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver/blob/release/test_run/.github/workflows/ci.yml,carma-lightbar-driver/.github/workflows/ci.yml at release/test_run · usdot-fh...,6,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver/tree/release/test_run,usdot-fhwa-stol/carma-lightbar-driver at release/test_run,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver/tree/develop/.github/workflows,carma-lightbar-driver/.github/workflows at develop · usdot-fhwa-stol/carma-li...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver/tree/release/test_run/.github/workflows,carma-lightbar-driver/.github/workflows at release/test_run · usdot-fhwa-stol...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver/tree/sync_test_run,usdot-fhwa-stol/carma-lightbar-driver at sync_test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver/actions/runs/14023827289,remove duplicate suffix · usdot-fhwa-stol/carma-lightbar-driver@b1c3740,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver/blob/develop/.github/workflows/ci.yml,carma-lightbar-driver/.github/workflows/ci.yml at develop · usdot-fhwa-stol/c...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-lightbar-driver,/usdot-fhwa-stol/carma-lightbar-driver/edit/release/test_run/.github/workflows/ci.yml,Editing carma-lightbar-driver/.github/workflows/ci.yml at release/test_run · ...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger/actions,Workflow runs · usdot-fhwa-stol/carma-messenger,15,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger,usdot-fhwa-stol/carma-messenger: CARMA Messenger will be a scaled down versio...,14,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger/actions/runs/14064627429,update config for master builds · usdot-fhwa-stol/carma-messenger@ffb4421,8,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger/pulls,Pull requests · usdot-fhwa-stol/carma-messenger,7,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger/actions/runs/14064627424,update config for master builds · usdot-fhwa-stol/carma-messenger@ffb4421,7,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger/tree/sync_test_run,usdot-fhwa-stol/carma-messenger at sync_test_run,6,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger/actions/runs/14025001192,Merge humble (#260) · usdot-fhwa-stol/carma-messenger@7b652b6,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger/tree/release/test_run,usdot-fhwa-stol/carma-messenger at release/test_run,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger/actions/runs/14025001192/job/39262139894,Merge humble (#260) · usdot-fhwa-stol/carma-messenger@7b652b6,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-messenger,/usdot-fhwa-stol/carma-messenger/actions/runs/14064627424/job/39391120572,update config for master builds · usdot-fhwa-stol/carma-messenger@ffb4421,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs,usdot-fhwa-stol/carma-msgs: ROS Message definitions used by the CARMA Platform,30,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs/actions,Workflow runs · usdot-fhwa-stol/carma-msgs,17,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs/pulls,Pull requests · usdot-fhwa-stol/carma-msgs,12,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs/pull/258,Release/test run by SaikrishnaBairamoni · Pull Request #258 · usdot-fhwa-stol...,7,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs/tree/release/test_run,usdot-fhwa-stol/carma-msgs at release/test_run,7,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs/tree/develop/.github/workflows,carma-msgs/.github/workflows at develop · usdot-fhwa-stol/carma-msgs,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs/tree/sync_test_run,usdot-fhwa-stol/carma-msgs at sync_test_run,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs/pull/256,use cyclone by default by MishkaMN · Pull Request #256 · usdot-fhwa-stol/carm...,4,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs/tree/develop,usdot-fhwa-stol/carma-msgs: ROS Message definitions used by the CARMA Platform,4,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-msgs,/usdot-fhwa-stol/carma-msgs/tree/develop/j2735_v2x_msgs/msg,carma-msgs/j2735_v2x_msgs/msg at develop · usdot-fhwa-stol/carma-msgs,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper,usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper,13,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper/actions,Workflow runs · usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper,6,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper/tree/develop/carma_novatel_driver_wrapper,carma-novatel-oem7-driver-wrapper/carma_novatel_driver_wrapper at develop · u...,4,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper/actions/runs/14020573822,Update config to point test images · usdot-fhwa-stol/carma-novatel-oem7-drive...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper/tree/release/test_run,usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper at release/test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper/blob/develop/carma_novatel_driver_wrapper/config/parameters.yaml,carma-novatel-oem7-driver-wrapper/carma_novatel_driver_wrapper/config/paramet...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper/blob/develop/carma_novatel_driver_wrapper/launch/carma-novatel-driver-wrapper-launch.py,carma-novatel-oem7-driver-wrapper/carma_novatel_driver_wrapper/launch/carma-n...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper/tree/develop/carma_novatel_driver_wrapper/config,carma-novatel-oem7-driver-wrapper/carma_novatel_driver_wrapper/config at deve...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper/actions/runs/14020573822/job/39251974502,Update config to point test images · usdot-fhwa-stol/carma-novatel-oem7-drive...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-novatel-oem7-driver-wrapper,/usdot-fhwa-stol/carma-novatel-oem7-driver-wrapper/blob/develop/.github/workflows/ci.yml,carma-novatel-oem7-driver-wrapper/.github/workflows/ci.yml at develop · usdot...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter,usdot-fhwa-stol/carma-ns3-adapter: Simulated communication driver for use wit...,8,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter/actions,Workflow runs · usdot-fhwa-stol/carma-ns3-adapter,5,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter/tree/sync_test_run,usdot-fhwa-stol/carma-ns3-adapter at sync_test_run,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter/tree/release/timtsp,usdot-fhwa-stol/carma-ns3-adapter at release/timtsp,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter/tree/master,usdot-fhwa-stol/carma-ns3-adapter at master,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter/tree/release/test_run,usdot-fhwa-stol/carma-ns3-adapter at release/test_run,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter/actions/runs/13993348138,update config to point release/timtps images · usdot-fhwa-stol/carma-ns3-adap...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter/actions/runs/13993348138/job/39182206289,update config to point release/timtps images · usdot-fhwa-stol/carma-ns3-adap...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter/actions/runs/13993814724,update tag to noetic · usdot-fhwa-stol/carma-ns3-adapter@f9b1f23,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ns3-adapter,/usdot-fhwa-stol/carma-ns3-adapter/actions/runs/13993814724/job/39183803830,update tag to noetic · usdot-fhwa-stol/carma-ns3-adapter@f9b1f23,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform,usdot-fhwa-stol/carma-platform: CARMA Platform is built on robot operating sy...,205,62
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform/pulls,usdot-fhwa-stol/carma-platform: CARMA Platform is built on robot operating sy...,83,9
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform/pull/2519,Cdad 79 update fixed signal by MishkaMN · Pull Request #2519 · usdot-fhwa-sto...,52,9
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform/pull/2504,Fix for removing duplicate lane centerline points during trajectory generatio...,42,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform/pull/2519/files,Cdad 79 update fixed signal by MishkaMN · Pull Request #2519 · usdot-fhwa-sto...,36,6
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform/actions,Workflow runs · usdot-fhwa-stol/carma-platform,29,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform/pull/2504/files,Car 6101/zig zag trajectory by MishkaMN · Pull Request #2504 · usdot-fhwa-sto...,24,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform/pull/2521,Add real-time foxglove support by MishkaMN · Pull Request #2521 · usdot-fhwa-...,21,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform/pull/2493,update install_deps for v2x-ros-conversion by adev4a · Pull Request #2493 · u...,21,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-platform,/usdot-fhwa-stol/carma-platform/pull/2493/files,update install_deps for v2x-ros-conversion by adev4a · Pull Request #2493 · u...,17,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper,usdot-fhwa-stol/carma-ssc-interface-wrapper: Autoware Speed and Steering Cont...,10,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper/actions,Workflow runs · usdot-fhwa-stol/carma-ssc-interface-wrapper,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper/tree/release/test_run,usdot-fhwa-stol/carma-ssc-interface-wrapper at release/test_run,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper/tree/develop/ssc_interface_wrapper_ros2,carma-ssc-interface-wrapper/ssc_interface_wrapper_ros2 at develop · usdot-fhw...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper/tree/sync_test_run,usdot-fhwa-stol/carma-ssc-interface-wrapper at sync_test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper/actions/runs/14020372591,Merge humble (#177) · usdot-fhwa-stol/carma-ssc-interface-wrapper@4d7e2da,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper/actions/runs/14020372591/job/39251512914,Merge humble (#177) · usdot-fhwa-stol/carma-ssc-interface-wrapper@4d7e2da,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper/blob/develop/docker/install.sh,carma-ssc-interface-wrapper/docker/install.sh at develop · usdot-fhwa-stol/ca...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper/blob/develop/ssc_interface_wrapper_ros2/launch/ssc_interface_wrapper.launch.py,carma-ssc-interface-wrapper/ssc_interface_wrapper_ros2/launch/ssc_interface_w...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-ssc-interface-wrapper,/usdot-fhwa-stol/carma-ssc-interface-wrapper/commits/develop,Commits · usdot-fhwa-stol/carma-ssc-interface-wrapper · GitHub,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets,usdot-fhwa-stol/carma-streets: CARMA Streets is a component of CARMA ecosyste...,14,7
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets/tree/develop/tsc_client_service,carma-streets/tsc_client_service at develop · usdot-fhwa-stol/carma-streets,6,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets/blob/develop/tsc_client_service/include/ntcip_oids.h,carma-streets/tsc_client_service/include/ntcip_oids.h at develop · usdot-fhwa...,4,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets/tree/develop/sensor_data_sharing_service,carma-streets/sensor_data_sharing_service at develop · usdot-fhwa-stol/carma-...,4,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets/blob/develop/sensor_data_sharing_service/src/detected_object_to_sdsm_converter.cpp,carma-streets/sensor_data_sharing_service/src/detected_object_to_sdsm_convert...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets/blob/develop/tsc_client_service/src/tsc_service.cpp,carma-streets/tsc_client_service/src/tsc_service.cpp at develop · usdot-fhwa-...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets/tree/develop/sensor_data_sharing_service/src,carma-streets/sensor_data_sharing_service/src at develop · usdot-fhwa-stol/ca...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets/tree/develop/tsc_client_service/src,carma-streets/tsc_client_service/src at develop · usdot-fhwa-stol/carma-streets,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets/blob/develop/tsc_client_service/src/monitor_tsc_state.cpp,carma-streets/tsc_client_service/src/monitor_tsc_state.cpp at develop · usdot...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-streets,/usdot-fhwa-stol/carma-streets/blob/develop/sensor_data_sharing_service/src/main.cpp,carma-streets/sensor_data_sharing_service/src/main.cpp at develop · usdot-fhw...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-time-lib,/usdot-fhwa-stol/carma-time-lib/blob/develop/include/carma_clock.h,carma-time-lib/include/carma_clock.h at develop · usdot-fhwa-stol/carma-time-...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-time-lib,/usdot-fhwa-stol/carma-time-lib,usdot-fhwa-stol/carma-time-lib: CARMA internal library providing time synchro...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-time-lib,/usdot-fhwa-stol/carma-time-lib/blob/develop/src/carma_clock.cpp,carma-time-lib/src/carma_clock.cpp at develop · usdot-fhwa-stol/carma-time-lib,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-time-lib,/usdot-fhwa-stol/carma-time-lib/pull/33,Add License by paulbourelly999 · Pull Request #33 · usdot-fhwa-stol/carma-tim...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-time-lib,/usdot-fhwa-stol/carma-time-lib/tree/develop/include,carma-time-lib/include at develop · usdot-fhwa-stol/carma-time-lib,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver,usdot-fhwa-stol/carma-torc-pinpoint-driver: TORC Pinpoint localization system...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver/actions,Workflow runs · usdot-fhwa-stol/carma-torc-pinpoint-driver,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver/pulls,Pull requests · usdot-fhwa-stol/carma-torc-pinpoint-driver,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver/tree/sync_test_run,usdot-fhwa-stol/carma-torc-pinpoint-driver at sync_test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver/tree/release/test_run,usdot-fhwa-stol/carma-torc-pinpoint-driver at release/test_run,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver/compare,Compare · usdot-fhwa-stol/carma-torc-pinpoint-driver,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver/compare/sync_test_run...develop,Comparing sync_test_run...develop · usdot-fhwa-stol/carma-torc-pinpoint-driver,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver/compare/sync_test_run...release/test_run,Comparing sync_test_run...release/test_run · usdot-fhwa-stol/carma-torc-pinpo...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver/pull/49,Release/test run by SaikrishnaBairamoni · Pull Request #49 · usdot-fhwa-stol/...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-torc-pinpoint-driver,/usdot-fhwa-stol/carma-torc-pinpoint-driver/tree/master,usdot-fhwa-stol/carma-torc-pinpoint-driver at master,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils,usdot-fhwa-stol/carma-utils: Utility libraries for hardware drivers in the CA...,15,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils/pulls,Pull requests · usdot-fhwa-stol/carma-utils,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils/actions,Workflow runs · usdot-fhwa-stol/carma-utils,6,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils/blob/develop/.github/workflows/ci.yml,carma-utils/.github/workflows/ci.yml at develop · usdot-fhwa-stol/carma-utils,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils/tree/develop/.github/workflows,carma-utils/.github/workflows at develop · usdot-fhwa-stol/carma-utils,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils/actions/runs/13948771954,Remove auto merge (#247) · usdot-fhwa-stol/carma-utils@55d1499,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils/tree/release/test_run,usdot-fhwa-stol/carma-utils at release/test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils/actions/runs/13948771954/job/39042445538,Remove auto merge (#247) · usdot-fhwa-stol/carma-utils@55d1499,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils/blob/sync_test_run/.github/workflows/ci.yml,carma-utils/.github/workflows/ci.yml at sync_test_run · usdot-fhwa-stol/carma...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-utils,/usdot-fhwa-stol/carma-utils/tree/1dffb2e64a7765065e9cbc9144807030967f2ef1/carma_ros2_utils,carma-utils/carma_ros2_utils at 1dffb2e64a7765065e9cbc9144807030967f2ef1 · us...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-vehicle-model-framework,/usdot-fhwa-stol/carma-vehicle-model-framework/tree/release/test_run,usdot-fhwa-stol/carma-vehicle-model-framework at release/test_run,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-vehicle-model-framework,/usdot-fhwa-stol/carma-vehicle-model-framework,usdot-fhwa-stol/carma-vehicle-model-framework: Framework for computing predic...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver/actions,Workflow runs · usdot-fhwa-stol/carma-velodyne-lidar-driver,10,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver,usdot-fhwa-stol/carma-velodyne-lidar-driver: Velodyne LiDAR Driver wrapper fo...,7,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver/tree/develop/velodyne_lidar_driver_wrapper,carma-velodyne-lidar-driver/velodyne_lidar_driver_wrapper at develop · usdot-...,5,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver/actions/runs/14023152900,Merge humble (#122) · usdot-fhwa-stol/carma-velodyne-lidar-driver@f658005,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver/tree/release/test_run,usdot-fhwa-stol/carma-velodyne-lidar-driver at release/test_run,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver/tree/sync_test_run,usdot-fhwa-stol/carma-velodyne-lidar-driver at sync_test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver/blob/develop/velodyne_lidar_driver_wrapper/launch/velodyne_lidar_driver_wrapper_launch.py,carma-velodyne-lidar-driver/velodyne_lidar_driver_wrapper/launch/velodyne_lid...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver/tree/develop/velodyne_lidar_driver_wrapper/launch,carma-velodyne-lidar-driver/velodyne_lidar_driver_wrapper/launch at develop ·...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver/actions/runs/13796337297,Merge humble (#122) · usdot-fhwa-stol/carma-velodyne-lidar-driver@f658005,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-velodyne-lidar-driver,/usdot-fhwa-stol/carma-velodyne-lidar-driver/actions/runs/13796337297/job/38588790347,Merge humble (#122) · usdot-fhwa-stol/carma-velodyne-lidar-driver@f658005,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui,usdot-fhwa-stol/carma-web-ui: Web User Interface for CARMA Platform,25,6
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui/pull/176,Modify to sim time by MishkaMN · Pull Request #176 · usdot-fhwa-stol/carma-we...,13,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui/pull/178,CAR 6110 Fix UI Hanging by john-chrosniak · Pull Request #178 · usdot-fhwa-st...,12,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui/pulls,Pull requests · usdot-fhwa-stol/carma-web-ui,6,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui/pull/176/files,Modify to sim time by MishkaMN · Pull Request #176 · usdot-fhwa-stol/carma-we...,5,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui/blob/develop/website/scripts/ros/ros_traffic_signal.js,carma-web-ui/website/scripts/ros/ros_traffic_signal.js at develop · usdot-fhw...,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui/pull/178/files,CAR 6110 Fix UI Hanging by john-chrosniak · Pull Request #178 · usdot-fhwa-st...,4,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui/actions,Workflow runs · usdot-fhwa-stol/carma-web-ui,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui/tree/develop/website,carma-web-ui/website at develop · usdot-fhwa-stol/carma-web-ui,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,carma-web-ui,/usdot-fhwa-stol/carma-web-ui/tree/develop/website/scripts/ros,carma-web-ui/website/scripts/ros at develop · usdot-fhwa-stol/carma-web-ui,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cav-education,/usdot-fhwa-stol/cav-education,GitHub - usdot-fhwa-stol/cav-education,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cav-education,/usdot-fhwa-stol/cav-education/pull/33,Test/release by arayama · Pull Request #33 · usdot-fhwa-stol/cav-education · ...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cav-education,/usdot-fhwa-stol/cav-education/pulls,Pull requests · usdot-fhwa-stol/cav-education · GitHub,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cav-education,/usdot-fhwa-stol/cav-education/tree/develop/cav_box,cav-education/cav_box at develop · usdot-fhwa-stol/cav-education · GitHub,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cav-education,/usdot-fhwa-stol/cav-education/tree/develop/cav_box/docker,cav-education/cav_box/docker at develop · usdot-fhwa-stol/cav-education,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cav-education,/usdot-fhwa-stol/cav-education/tree/develop/images,cav-education/images at develop · usdot-fhwa-stol/cav-education · GitHub,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cave-lite,/usdot-fhwa-stol/cave-lite/blob/develop/README.md,cave-lite/README.md at develop · usdot-fhwa-stol/cave-lite,6,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cave-lite,/usdot-fhwa-stol/cave-lite,usdot-fhwa-stol/cave-lite,5,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,cave-lite,/usdot-fhwa-stol/cave-lite/blob/develop/docs/CAVe-Lite_System_Design_Document.pdf,cave-lite/docs/CAVe-Lite_System_Design_Document.pdf at develop · usdot-fhwa-s...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cave-lite,/usdot-fhwa-stol/cave-lite/tree/develop/docs,cave-lite/docs at develop · usdot-fhwa-stol/cave-lite,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda-telematics,/usdot-fhwa-stol/cda-telematics,usdot-fhwa-stol/cda-telematics,5,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda-telematics,/usdot-fhwa-stol/cda-telematics/blob/develop/.github/workflows/tests.yml,cda-telematics/.github/workflows/tests.yml at develop · usdot-fhwa-stol/cda-t...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda-telematics,/usdot-fhwa-stol/cda-telematics/tree/develop/.github/workflows,cda-telematics/.github/workflows at develop · usdot-fhwa-stol/cda-telematics,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda-telematics,/usdot-fhwa-stol/cda-telematics/tree/develop/telematic_system,cda-telematics/telematic_system at develop · usdot-fhwa-stol/cda-telematics,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda-telematics,/usdot-fhwa-stol/cda-telematics/tree/develop/telematic_system/scripts,cda-telematics/telematic_system/scripts at develop · usdot-fhwa-stol/cda-tele...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda-telematics,/usdot-fhwa-stol/cda-telematics/tree/develop/telematic_system/scripts/log_analysis,cda-telematics/telematic_system/scripts/log_analysis at develop · usdot-fhwa-...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup,usdot-fhwa-stol/cda1tenth-bringup,9,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup/pull/52,Resolve Multiple Acks by john-chrosniak · Pull Request #52 · usdot-fhwa-stol/...,5,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup/pull/48/files,Cf 966 route operations by john-chrosniak · Pull Request #48 · usdot-fhwa-sto...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup/tree/develop/behavior_trees,cda1tenth-bringup/behavior_trees at develop · usdot-fhwa-stol/cda1tenth-bringup,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup/blob/develop/maps/garage.pgm,cda1tenth-bringup/maps/garage.pgm at develop · usdot-fhwa-stol/cda1tenth-brin...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup/pull/48,Cf 966 route operations by john-chrosniak · Pull Request #48 · usdot-fhwa-sto...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup/pull/52/files,Resolve Multiple Acks by john-chrosniak · Pull Request #52 · usdot-fhwa-stol/...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup/tree/develop,usdot-fhwa-stol/cda1tenth-bringup,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup/tree/develop/docs,cda1tenth-bringup/docs at develop · usdot-fhwa-stol/cda1tenth-bringup,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cda1tenth-bringup,/usdot-fhwa-stol/cda1tenth-bringup/tree/develop/maps,cda1tenth-bringup/maps at develop · usdot-fhwa-stol/cda1tenth-bringup,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim,usdot-fhwa-stol/cdasim: CDASim is an open-source simulation system supporting...,35,18
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim/tree/develop/co-simulation,cdasim/co-simulation at develop · usdot-fhwa-stol/cdasim · GitHub,9,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim/tree/develop/co-simulation/bundle/src/assembly/resources/scenarios/Town05,cdasim/co-simulation/bundle/src/assembly/resources/scenarios/Town05 at develo...,9,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim/tree/develop/co-simulation/bundle,cdasim/co-simulation/bundle at develop · usdot-fhwa-stol/cdasim,5,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim/tree/develop/co-simulation/bundle/src/assembly,cdasim/co-simulation/bundle/src/assembly at develop · usdot-fhwa-stol/cdasim,5,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim/tree/develop/co-simulation/bundle/src/assembly/resources,cdasim/co-simulation/bundle/src/assembly/resources at develop · usdot-fhwa-st...,5,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim/actions,Workflow runs · usdot-fhwa-stol/cdasim,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim/tree/develop/co-simulation/bundle/src/assembly/resources/scenarios,cdasim/co-simulation/bundle/src/assembly/resources/scenarios at develop · usd...,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim/tree/develop/co-simulation/bundle/src/assembly/resources/scenarios/Town05/sumo,cdasim/co-simulation/bundle/src/assembly/resources/scenarios/Town05/sumo at d...,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim,/usdot-fhwa-stol/cdasim/tree/develop/Instruction,cdasim/Instruction at develop · usdot-fhwa-stol/cdasim · GitHub,3,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config,usdot-fhwa-stol/cdasim-config,41,11
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config/tree/develop/xil-Town05,cdasim-config/xil-Town05 at develop · usdot-fhwa-stol/cdasim-config · GitHub,37,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config/pulls,Pull requests · usdot-fhwa-stol/cdasim-config,32,6
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config/pull/10,Added foxglove configuration and vehicle camera by paulbourelly999 · Pull Req...,22,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config/tree/develop/xil-Town05/cdasim_config,cdasim-config/xil-Town05/cdasim_config at develop · usdot-fhwa-stol/cdasim-co...,21,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config/blob/develop/xil-Town05/docker-compose.yml,cdasim-config/xil-Town05/docker-compose.yml at develop · usdot-fhwa-stol/cdas...,17,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config/pull/10/files,Added foxglove configuration and vehicle camera by paulbourelly999 · Pull Req...,12,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config/pull/8,Update RSU position in SQL by chengyuan0124 · Pull Request #8 · usdot-fhwa-st...,12,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config/tree/release/timtsp,usdot-fhwa-stol/cdasim-config at release/timtsp,9,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,cdasim-config,/usdot-fhwa-stol/cdasim-config/tree/develop/xil_vru_uc1_scenario,cdasim-config/xil_vru_uc1_scenario at develop · usdot-fhwa-stol/cdasim-config...,6,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools/pulls,Pull requests · usdot-fhwa-stol/connectedvcs-tools,86,7
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools,usdot-fhwa-stol/connectedvcs-tools,65,15
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools/pull/90,Update depositor by dan-du-car · Pull Request #90 · usdot-fhwa-stol/connected...,44,10
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools/pull/90/files,Update depositor by dan-du-car · Pull Request #90 · usdot-fhwa-stol/connected...,27,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools/pull/91,MAP 252 - Created popup message by radishco · Pull Request #91 · usdot-fhwa-s...,24,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools/pull/92,Map 256 update message builder with optional fields of approach geometry laye...,21,5
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools/pull/93,Missed porting Update Child Markers function by dan-du-car · Pull Request #93...,16,7
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools/pull/94,add skeleton for decoder JNI by saina-ramyar · Pull Request #94 · usdot-fhwa-...,16,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools/pull/92/files,Map 256 update message builder with optional fields of approach geometry laye...,12,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,connectedvcs-tools,/usdot-fhwa-stol/connectedvcs-tools/pull/93/files,Missed porting Update Child Markers function by dan-du-car · Pull Request #93...,9,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2,GitHub - usdot-fhwa-stol/dwm1001_ros2: ROS2 Nodes for the Qorvo DWM1001 Indoo...,4,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2/blob/develop/config/multi_ips.yaml,dwm1001_ros2/config/multi_ips.yaml at develop · usdot-fhwa-stol/dwm1001_ros2,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2/tree/develop/config,dwm1001_ros2/config at develop · usdot-fhwa-stol/dwm1001_ros2 · GitHub,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2/tree/develop/dwm1001_ros2,dwm1001_ros2/dwm1001_ros2 at develop · usdot-fhwa-stol/dwm1001_ros2 · GitHub,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2/blob/develop/launch/dwm_sensor_service.launch.py,dwm1001_ros2/launch/dwm_sensor_service.launch.py at develop · usdot-fhwa-stol...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2/blob/develop/launch/multi_launch.py,dwm1001_ros2/launch/multi_launch.py at develop · usdot-fhwa-stol/dwm1001_ros2...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2/tree/develop,GitHub - usdot-fhwa-stol/dwm1001_ros2: ROS2 Nodes for the Qorvo DWM1001 Indoo...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2/tree/develop/launch,dwm1001_ros2/launch at develop · usdot-fhwa-stol/dwm1001_ros2 · GitHub,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2/blob/develop/package.xml,dwm1001_ros2/package.xml at develop · usdot-fhwa-stol/dwm1001_ros2,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,dwm1001_ros2,/usdot-fhwa-stol/dwm1001_ros2/blob/develop/resource/dwm1001_ros2,dwm1001_ros2/resource/dwm1001_ros2 at develop · usdot-fhwa-stol/dwm1001_ros2 ...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics/actions/workflows/code-gov.yml,code-gov · Workflow runs · usdot-fhwa-stol/github_metrics,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics,usdot-fhwa-stol/github_metrics,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics/blob/develop/output/github_clones_usdot-fhwa-OPS_biweekly_2025-03-15.csv,github_metrics/output/github_clones_usdot-fhwa-OPS_biweekly_2025-03-15.csv at...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics/actions,Workflow runs · usdot-fhwa-stol/github_metrics,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics/actions/runs/11561933797,code-gov · usdot-fhwa-stol/github_metrics@f8f3a4c,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics/actions/runs/14068497607,code-gov · usdot-fhwa-stol/github_metrics@f8f3a4c,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics/blob/develop/Github-metrics.docx,github_metrics/Github-metrics.docx at develop · usdot-fhwa-stol/github_metric...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics/blob/develop/output/usdot-fhwa-OPS__.csv,File not found,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics/blob/generate_cybesecurity_metrics/.github/workflows/code-gov.yml,github_metrics/.github/workflows/code-gov.yml at generate_cybesecurity_metric...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,github_metrics,/usdot-fhwa-stol/github_metrics/blob/generate_cybesecurity_metrics/output/usdot-fhwa-OPS__.csv,github_metrics/output/usdot-fhwa-OPS__.csv at generate_cybesecurity_metrics ·...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,infrastructure-camera-detection-and-tracking,/usdot-fhwa-stol/infrastructure-camera-detection-and-tracking/blob/8dcaa4372091957732d14eaecc09436d6f6e0f8f/refs/YOLOv8-TensorRT/hello/torchvision/torchvision/models/mobilenetv3.py,infrastructure-camera-detection-and-tracking/refs/YOLOv8-TensorRT/hello/torch...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,infrastructure-camera-detection-and-tracking,/usdot-fhwa-stol/infrastructure-camera-detection-and-tracking/blob/8dcaa4372091957732d14eaecc09436d6f6e0f8f/refs/YOLOv8-TensorRT/hello/torchvision/torchvision/models/video/swin_transformer.py,infrastructure-camera-detection-and-tracking/refs/YOLOv8-TensorRT/hello/torch...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,infrastructure-camera-detection-and-tracking,/usdot-fhwa-stol/infrastructure-camera-detection-and-tracking/tree/8dcaa4372091957732d14eaecc09436d6f6e0f8f/refs/YOLOv8-TensorRT,infrastructure-camera-detection-and-tracking/refs/YOLOv8-TensorRT at 8dcaa437...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder,usdot-fhwa-stol/j2735decoder: Python library to decode J2735 encoded UPER hex...,37,21
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder/tree/develop/Sample%20Data,j2735decoder/Sample Data at develop · usdot-fhwa-stol/j2735decoder,12,6
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder/tree/develop,usdot-fhwa-stol/j2735decoder: Python library to decode J2735 encoded UPER hex...,12,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder/tree/develop/src,j2735decoder/src at develop · usdot-fhwa-stol/j2735decoder · GitHub,9,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder/blob/develop/src/CAVmessages.py,j2735decoder/src/CAVmessages.py at develop · usdot-fhwa-stol/j2735decoder · G...,8,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder/blob/develop/J2735_201603_combined_mobility.py,j2735decoder/J2735_201603_combined_mobility.py at develop · usdot-fhwa-stol/j...,8,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder/blob/develop/README.md,j2735decoder/README.md at develop · usdot-fhwa-stol/j2735decoder · GitHub,7,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder/blob/develop/src/J2735_201603_combined_mobility.py,j2735decoder/src/J2735_201603_combined_mobility.py at develop · usdot-fhwa-st...,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder/blob/develop/src/main_test.py,j2735decoder/src/main_test.py at develop · usdot-fhwa-stol/j2735decoder · Git...,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,j2735decoder,/usdot-fhwa-stol/j2735decoder/blob/develop/requirements.txt,j2735decoder/requirements.txt at develop · usdot-fhwa-stol/j2735decoder · Git...,5,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking,usdot-fhwa-stol/multiple_object_tracking,13,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking/actions,Workflow runs · usdot-fhwa-stol/multiple_object_tracking,6,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking/tree/release/test_run,usdot-fhwa-stol/multiple_object_tracking at release/test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking/tree/sync_test_run,usdot-fhwa-stol/multiple_object_tracking at sync_test_run,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking/blob/develop/scripts/install_dependencies.sh,multiple_object_tracking/scripts/install_dependencies.sh at develop · usdot-f...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking/tree/develop/scripts,multiple_object_tracking/scripts at develop · usdot-fhwa-stol/multiple_object...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking/compare,Compare · usdot-fhwa-stol/multiple_object_tracking,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking/compare/sync_test_run...develop,Comparing sync_test_run...develop · usdot-fhwa-stol/multiple_object_tracking,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking/compare/sync_test_run...release/test_run,Comparing sync_test_run...release/test_run · usdot-fhwa-stol/multiple_object_...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,multiple_object_tracking,/usdot-fhwa-stol/multiple_object_tracking/pull/155,Release/test run by SaikrishnaBairamoni · Pull Request #155 · usdot-fhwa-stol...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions,usdot-fhwa-stol/navigation2-extensions: Cooperative-Driving Automation (CDA) ...,9,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions/tree/develop/nav2_port_drayage_demo,navigation2-extensions/nav2_port_drayage_demo at develop · usdot-fhwa-stol/na...,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions/commit/ee5a5f2e61c18f90139b4a10aa9043ea801eb8af,Cf 966 Route Operations (#21) · usdot-fhwa-stol/navigation2-extensions@ee5a5f2,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions/blob/develop/nav2_port_drayage_demo/src/port_drayage_demo.cpp,navigation2-extensions/nav2_port_drayage_demo/src/port_drayage_demo.cpp at de...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions/commits/develop,Commits · usdot-fhwa-stol/navigation2-extensions,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions/tree/develop/nav2_port_drayage_demo/src,navigation2-extensions/nav2_port_drayage_demo/src at develop · usdot-fhwa-sto...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions/blob/develop/nav2_port_drayage_demo/include/nav2_port_drayage_demo/port_drayage_demo.hpp,navigation2-extensions/nav2_port_drayage_demo/include/nav2_port_drayage_demo/...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions/pull/21,Cf 966 Route Operations by john-chrosniak · Pull Request #21 · usdot-fhwa-sto...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions/pulls,Pull requests · usdot-fhwa-stol/navigation2-extensions,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,navigation2-extensions,/usdot-fhwa-stol/navigation2-extensions/tree/develop/nav2_port_drayage_demo/include/nav2_port_drayage_demo,navigation2-extensions/nav2_port_drayage_demo/include/nav2_port_drayage_demo ...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,tim-bc,/usdot-fhwa-stol/tim-bc,GitHub - usdot-fhwa-stol/tim-bc,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles,/usdot-fhwa-stol/To-21-426-modeling-hv-interactions-with-inconspicuous-ACC-equipped-vehicles,usdot-fhwa-stol/To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equ...,3,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles,/usdot-fhwa-stol/To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles/tree/master/calibration%20code,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles/c...,2,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles,/usdot-fhwa-stol/To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles/blob/master/calibration%20code/Data/CAV/run-1-veh-16-pair-7.csv,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles/c...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles,/usdot-fhwa-stol/To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles/blob/master/calibration%20code/PSO%20algorithm.ipynb,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles/c...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles,/usdot-fhwa-stol/To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles/tree/master/calibration%20code/Data/CAV,To-21-426-modeling-HV-interactions-with-inconspicuous-ACC-equipped-vehicles/c...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,twist_to_ackermann,/usdot-fhwa-stol/twist_to_ackermann,usdot-fhwa-stol/twist_to_ackermann,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,twist_to_ackermann,/usdot-fhwa-stol/twist_to_ackermann/blob/develop/src/twist_to_ackermann_node.cpp,twist_to_ackermann/src/twist_to_ackermann_node.cpp at develop · usdot-fhwa-st...,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,twist_to_ackermann,/usdot-fhwa-stol/twist_to_ackermann/tree/develop/src,twist_to_ackermann/src at develop · usdot-fhwa-stol/twist_to_ackermann,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync/pull/4,Remove SPDLOG dependency by paulbourelly999 · Pull Request #4 · usdot-fhwa-st...,10,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync,usdot-fhwa-stol/udp-time-sync: C++ library for time synchronization with CARM...,7,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync/pull/4/files,Remove SPDLOG dependency by paulbourelly999 · Pull Request #4 · usdot-fhwa-st...,5,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync/blob/develop/src/SingletonException.cpp,udp-time-sync/src/SingletonException.cpp at develop · usdot-fhwa-stol/udp-tim...,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync/blob/develop/src/TimeSync.cpp,udp-time-sync/src/TimeSync.cpp at develop · usdot-fhwa-stol/udp-time-sync,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync/blob/develop/include/TimeSync.hpp,udp-time-sync/include/TimeSync.hpp at develop · usdot-fhwa-stol/udp-time-sync,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync/pulls,Pull requests · usdot-fhwa-stol/udp-time-sync,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync/tree/develop/test,udp-time-sync/test at develop · usdot-fhwa-stol/udp-time-sync,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync/blob/develop/include/Singleton.hpp,udp-time-sync/include/Singleton.hpp at develop · usdot-fhwa-stol/udp-time-sync,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,udp-time-sync,/usdot-fhwa-stol/udp-time-sync/tree/develop/include,udp-time-sync/include at develop · usdot-fhwa-stol/udp-time-sync,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator,usdot-fhwa-stol/v2x-emulator: Repository for code related to the CARMA 1tenth...,15,12
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator/pull/17,Cf 1000 obu by john-chrosniak · Pull Request #17 · usdot-fhwa-stol/v2x-emulator,8,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator/pull/16,Cf 1000 Remove BSM Acks by john-chrosniak · Pull Request #16 · usdot-fhwa-sto...,6,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator/pull/17/files,Cf 1000 obu by john-chrosniak · Pull Request #17 · usdot-fhwa-stol/v2x-emulator,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator/pulls,Pull requests · usdot-fhwa-stol/v2x-emulator,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator/pull/16/files,Cf 1000 Remove BSM Acks by john-chrosniak · Pull Request #16 · usdot-fhwa-sto...,2,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator/blob/develop/requirements.txt,v2x-emulator/requirements.txt at develop · usdot-fhwa-stol/v2x-emulator,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator/pull/17/commits/f77f0d6e81000c479afb2f233a004e42b580477d,Cf 1000 obu by john-chrosniak · Pull Request #17 · usdot-fhwa-stol/v2x-emulator,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator/tree/develop/src,v2x-emulator/src at develop · usdot-fhwa-stol/v2x-emulator · GitHub,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-emulator,/usdot-fhwa-stol/v2x-emulator/tree/develop/src/Networking,v2x-emulator/src/Networking at develop · usdot-fhwa-stol/v2x-emulator · GitHub,1,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion,usdot-fhwa-stol/v2x-ros-conversion,18,7
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion/actions,Workflow runs · usdot-fhwa-stol/v2x-ros-conversion,10,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion/actions/runs/14038273767,Updtae config to point release/test · usdot-fhwa-stol/v2x-ros-conversion@4a40...,6,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion/tree/develop/ros-conversion,v2x-ros-conversion/ros-conversion at develop · usdot-fhwa-stol/v2x-ros-conver...,5,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion/tree/develop/ros-conversion/cpp_message,v2x-ros-conversion/ros-conversion/cpp_message at develop · usdot-fhwa-stol/v2...,4,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion/branches,Branches · usdot-fhwa-stol/v2x-ros-conversion,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion/tree/release/test_run,usdot-fhwa-stol/v2x-ros-conversion at release/test_run,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion/blob/develop/ros-conversion/cpp_message/test/test_MapMessage.cpp,v2x-ros-conversion/ros-conversion/cpp_message/test/test_MapMessage.cpp at dev...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion/blob/develop/ros-conversion/j2735_convertor/src/bsm_convertor.cpp,v2x-ros-conversion/ros-conversion/j2735_convertor/src/bsm_convertor.cpp at de...,3,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-conversion,/usdot-fhwa-stol/v2x-ros-conversion/actions/runs/14038273767/job/39301676264,Updtae config to point release/test · usdot-fhwa-stol/v2x-ros-conversion@4a40...,3,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver,usdot-fhwa-stol/v2x-ros-driver: ROS driver for V2X (both C-V2X and DSRC) radios,29,8
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver/tree/develop/v2x_ros_driver,v2x-ros-driver/v2x_ros_driver at develop · usdot-fhwa-stol/v2x-ros-driver · G...,14,7
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver/pulls,Pull requests · usdot-fhwa-stol/v2x-ros-driver,13,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver/pull/128,Fix driver message parser by jwillmartin · Pull Request #128 · usdot-fhwa-sto...,8,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver/tree/develop/v2x_ros_driver/config,v2x-ros-driver/v2x_ros_driver/config at develop · usdot-fhwa-stol/v2x-ros-dri...,6,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver/branches,Branches · usdot-fhwa-stol/v2x-ros-driver,5,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver/tree/develop/v2x_ros_driver/src,v2x-ros-driver/v2x_ros_driver/src at develop · usdot-fhwa-stol/v2x-ros-driver,4,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver/pull/128/files,Fix driver message parser by jwillmartin · Pull Request #128 · usdot-fhwa-sto...,4,2
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver/actions,Workflow runs · usdot-fhwa-stol/v2x-ros-driver,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,v2x-ros-driver,/usdot-fhwa-stol/v2x-ros-driver/tree/feature/dev-container,usdot-fhwa-stol/v2x-ros-driver at feature/dev-container,3,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc/blob/feature/pilot2/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/mcity_map_voices.sumocfg,voices-poc/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/mcity_map_voices...,9,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc/tree/feature/pilot2/scripts/carla_python_scripts/Sumo,voices-poc/scripts/carla_python_scripts/Sumo at feature/pilot2 · usdot-fhwa-s...,7,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc/blob/feature/pilot2/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/mcity_tlLogic.xml,voices-poc/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/mcity_tlLogic.xm...,6,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc/blob/feature/pilot2/scripts/carla_python_scripts/Sumo/sumo_integration/bridge_helper.py,voices-poc/scripts/carla_python_scripts/Sumo/sumo_integration/bridge_helper.p...,6,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc/blob/feature/pilot2/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/p2e0-rerun-veh.rou.xml,voices-poc/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/p2e0-rerun-veh.r...,5,4
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc,usdot-fhwa-stol/voices-poc,5,3
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc/blob/feature/pilot2/config/site_config/tfhrc3.config,voices-poc/config/site_config/tfhrc3.config at feature/pilot2 · usdot-fhwa-st...,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc/tree/feature/pilot2/scripts/carla_python_scripts/Sumo/mcity_sumo_v303,voices-poc/scripts/carla_python_scripts/Sumo/mcity_sumo_v303 at feature/pilot...,5,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc/blob/feature/pilot2/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/mcity_map_voices.netecfg,voices-poc/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/mcity_map_voices...,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,voices-poc,/usdot-fhwa-stol/voices-poc/blob/feature/pilot2/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/mcity_map_voices_v303.xodr,voices-poc/scripts/carla_python_scripts/Sumo/mcity_sumo_v303/mcity_map_voices...,4,1
+2025-03-17,2025-03-31,usdot-fhwa-stol,WxDE,/usdot-fhwa-stol/WxDE,usdot-fhwa-stol/WxDE: Weather data environment for the FHWA Saxton Lab,2,2
