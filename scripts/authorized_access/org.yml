@@ -1,0 +1,378 @@
+organization: usdot-fhwa-stol
+org_admins:
+- JonSmet
+- kjrush
+- maefromm
+- paulbourelly999
+- SaikrishnaBairamoni
+- smithjj5
+- yingyanlou
+org_members:
+- aamishaaa
+- adev4a
+- afrye51
+- ajloughr-leidos
+- amirgh1988
+- AndrewF70
+- animeshb27
+- BhanuYeswanthReddy03
+- chengyuan0124
+- cherneysp
+- ChrisC027
+- d-lem
+- dan-du-car
+- DokurOmkar
+- Dylan-Wyl10
+- EricChen-Lei
+- FGoldberger
+- gainesaw
+- garvisk
+- gurusit-chandra
+- harsha-gurusinfotech
+- jacob6838
+- john-chrosniak
+- John-Wiens
+- JoshEvery
+- JStogoskiLds
+- jwillmartin
+- kruegersp
+- maheeetaaa
+- Michael7371
+- MishkaMN
+- moha-hafez
+- mpalash95
+- radishco
+- Saeid-Solei
+- SafeguardLi
+- saina-ramyar
+- shivaKadavarthi
+- shreekant8
+- snallamothu
+- STOL-CARMA
+- STOLDEVOPS
+- STOLFHWA
+- Tanuj-D
+- ToddSchumannNTIA
+- TonyEnglish
+- TonysCousin
+- tyagi86
+- willjohnsonk
+outside_collaborators:
+- username: andrew-excitingtechnology
+  repos:
+  - name: din-sae-spec-analysis
+    role: write
+- username: bujanovic
+  repos:
+  - name: glidepath-ead
+    role: read
+  - name: CARMAPlatformOld2
+    role: read
+  - name: CARMAConceptOld
+    role: read
+  - name: CARMASensitive
+    role: read
+  - name: carma-platform
+    role: read
+  - name: CARMAConcept
+    role: read
+  - name: carma-msgs
+    role: read
+  - name: carma-utils
+    role: read
+  - name: carma-torc-pinpoint-driver
+    role: read
+  - name: carma-torc-xgv-controller-driver
+    role: read
+  - name: carma-cadillac-srx-2013-controller-driver
+    role: read
+  - name: carma-freightliner-2012-controller-driver
+    role: read
+  - name: v2x-ros-driver
+    role: read
+  - name: carma-web-ui
+    role: read
+  - name: carma-delphi-esr-driver
+    role: read
+  - name: carma-cadillac-srx-2013-can-driver
+    role: read
+  - name: carma-cadillac-srx-2013-objects-driver
+    role: read
+  - name: carma-freightliner-2012-can-driver
+    role: read
+  - name: carma-delphi-srr2-driver
+    role: read
+  - name: avt_vimba_camera
+    role: read
+  - name: carma-vehicle-model-framework
+    role: read
+  - name: carma-velodyne-lidar-driver
+    role: read
+  - name: autoware.ai
+    role: read
+  - name: carma-ssc-interface-wrapper
+    role: read
+  - name: carma-base
+    role: read
+  - name: carma-config
+    role: read
+  - name: carma-vehicle-calibration
+    role: read
+  - name: carma-garmin-lidar-lite-v3-driver-wrapper
+    role: read
+  - name: opendrive2lanelet
+    role: read
+  - name: carma-lightbar-driver
+    role: read
+  - name: carla-simulation
+    role: read
+  - name: cdasim
+    role: read
+  - name: cda-telematics
+    role: read
+  - name: carma-carla-integration
+    role: read
+- username: GovindVadakpat
+  repos:
+  - name: glidepath-ead
+    role: read
+  - name: CARMAPlatformOld2
+    role: read
+  - name: CARMAConceptOld
+    role: read
+  - name: CARMASensitive
+    role: read
+  - name: carma-platform
+    role: read
+  - name: CARMAConcept
+    role: read
+  - name: carma-msgs
+    role: read
+  - name: carma-utils
+    role: read
+  - name: carma-torc-pinpoint-driver
+    role: read
+  - name: carma-torc-xgv-controller-driver
+    role: read
+  - name: carma-cadillac-srx-2013-controller-driver
+    role: read
+  - name: carma-freightliner-2012-controller-driver
+    role: read
+  - name: v2x-ros-driver
+    role: read
+  - name: carma-web-ui
+    role: read
+  - name: carma-delphi-esr-driver
+    role: read
+  - name: carma-cadillac-srx-2013-can-driver
+    role: read
+  - name: carma-cadillac-srx-2013-objects-driver
+    role: read
+  - name: carma-freightliner-2012-can-driver
+    role: read
+  - name: carma-delphi-srr2-driver
+    role: read
+  - name: avt_vimba_camera
+    role: read
+  - name: carma-vehicle-model-framework
+    role: read
+  - name: carma-velodyne-lidar-driver
+    role: read
+  - name: autoware.ai
+    role: read
+  - name: carma-ssc-interface-wrapper
+    role: read
+  - name: carma-base
+    role: read
+  - name: carma-config
+    role: read
+  - name: carma-vehicle-calibration
+    role: read
+  - name: carma-garmin-lidar-lite-v3-driver-wrapper
+    role: read
+  - name: opendrive2lanelet
+    role: read
+  - name: carma-lightbar-driver
+    role: read
+  - name: carla-simulation
+    role: read
+  - name: cdasim
+    role: read
+  - name: carma-carla-integration
+    role: read
+- username: hamiltoneri
+  repos:
+  - name: isd-creator
+    role: read
+- username: hparkfhwa
+  repos:
+  - name: glidepath-ead
+    role: read
+  - name: CARMAPlatformOld2
+    role: read
+  - name: CARMAConceptOld
+    role: read
+  - name: CARMASensitive
+    role: read
+  - name: carma-platform
+    role: read
+  - name: CARMAConcept
+    role: read
+  - name: carma-msgs
+    role: read
+  - name: carma-utils
+    role: read
+  - name: carma-torc-pinpoint-driver
+    role: read
+  - name: carma-torc-xgv-controller-driver
+    role: read
+  - name: carma-cadillac-srx-2013-controller-driver
+    role: read
+  - name: carma-freightliner-2012-controller-driver
+    role: read
+  - name: v2x-ros-driver
+    role: read
+  - name: carma-web-ui
+    role: read
+  - name: carma-delphi-esr-driver
+    role: read
+  - name: carma-cadillac-srx-2013-can-driver
+    role: read
+  - name: carma-cadillac-srx-2013-objects-driver
+    role: read
+  - name: carma-freightliner-2012-can-driver
+    role: read
+  - name: carma-delphi-srr2-driver
+    role: read
+  - name: avt_vimba_camera
+    role: read
+  - name: carma-vehicle-model-framework
+    role: read
+  - name: carma-velodyne-lidar-driver
+    role: read
+  - name: autoware.ai
+    role: read
+  - name: carma-ssc-interface-wrapper
+    role: read
+  - name: carma-base
+    role: read
+  - name: carma-config
+    role: read
+  - name: carma-vehicle-calibration
+    role: read
+  - name: carma-garmin-lidar-lite-v3-driver-wrapper
+    role: read
+  - name: opendrive2lanelet
+    role: read
+  - name: carma-lightbar-driver
+    role: read
+  - name: carla-simulation
+    role: read
+  - name: cdasim
+    role: read
+  - name: carma-carla-integration
+    role: read
+- username: huangz817
+  repos:
+  - name: stol-ams-tools
+    role: write
+- username: John-Hourdos
+  repos:
+  - name: trajectory-tools
+    role: write
+  - name: stol-ams-tools
+    role: write
+- username: jrspfd
+  repos:
+  - name: voices-cda-use-case-scenario-database
+    role: write
+  - name: voices-poc
+    role: write
+- username: madhurbehl
+  repos:
+  - name: carma-1-tenth
+    role: write
+- username: mccullochnick
+  repos:
+  - name: intersection-safety-challenge
+    role: write
+- username: sf3164
+  repos:
+  - name: trajectory-tools
+    role: write
+- username: tlochrane
+  repos:
+  - name: glidepath-ead
+    role: read
+  - name: CARMAPlatformOld2
+    role: read
+  - name: CARMAConceptOld
+    role: read
+  - name: CARMASensitive
+    role: read
+  - name: carma-platform
+    role: read
+  - name: CARMAConcept
+    role: read
+  - name: carma-msgs
+    role: read
+  - name: carma-utils
+    role: read
+  - name: carma-torc-pinpoint-driver
+    role: read
+  - name: carma-torc-xgv-controller-driver
+    role: read
+  - name: carma-cadillac-srx-2013-controller-driver
+    role: read
+  - name: carma-freightliner-2012-controller-driver
+    role: read
+  - name: v2x-ros-driver
+    role: read
+  - name: carma-web-ui
+    role: read
+  - name: carma-delphi-esr-driver
+    role: read
+  - name: carma-cadillac-srx-2013-can-driver
+    role: read
+  - name: carma-cadillac-srx-2013-objects-driver
+    role: read
+  - name: carma-freightliner-2012-can-driver
+    role: read
+  - name: carma-delphi-srr2-driver
+    role: read
+  - name: avt_vimba_camera
+    role: read
+  - name: carma-vehicle-model-framework
+    role: read
+  - name: carma-velodyne-lidar-driver
+    role: read
+  - name: autoware.ai
+    role: read
+  - name: carma-ssc-interface-wrapper
+    role: read
+  - name: carma-base
+    role: read
+  - name: carma-config
+    role: read
+  - name: carma-vehicle-calibration
+    role: read
+  - name: carma-garmin-lidar-lite-v3-driver-wrapper
+    role: read
+  - name: opendrive2lanelet
+    role: read
+  - name: carma-lightbar-driver
+    role: read
+  - name: carla-simulation
+    role: read
+  - name: cdasim
+    role: read
+  - name: carma-carla-integration
+    role: read
+- username: TransUMD
+  repos:
+  - name: intersection-safety-challenge
+    role: write
+- username: zhaohui-liang
+  repos:
+  - name: carma-streets
+    role: read

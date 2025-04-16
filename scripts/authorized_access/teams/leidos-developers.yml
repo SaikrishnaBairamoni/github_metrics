@@ -1,0 +1,309 @@
+name: leidos-developers
+description: Leidos Developers
+members:
+- kjrush
+- DokurOmkar
+- TonysCousin
+- MishkaMN
+- jwillmartin
+- shreekant8
+- maefromm
+- afrye51
+- tyagi86
+- JonSmet
+- willjohnsonk
+- amirgh1988
+- animeshb27
+- john-chrosniak
+- adev4a
+- saina-ramyar
+- dan-du-car
+- radishco
+- paulbourelly999
+- SaikrishnaBairamoni
+- chengyuan0124
+- Saeid-Solei
+- ajloughr-leidos
+- garvisk
+- yingyanlou
+- gainesaw
+- EricChen-Lei
+- ChrisC027
+- aamishaaa
+- maheeetaaa
+- moha-hafez
+- Tanuj-D
+- AndrewF70
+- mpalash95
+- JStogoskiLds
+repos:
+- name: .github
+  role: write
+- name: actions
+  role: write
+- name: ads-traffic-regs
+  role: write
+- name: arena_camera_ros
+  role: write
+- name: asn-code-gen
+  role: write
+- name: asn1-specification-splitter
+  role: write
+- name: autoware.ai
+  role: write
+- name: autoware.auto
+  role: write
+- name: avt_vimba_camera
+  role: write
+- name: c1t-tools
+  role: write
+- name: c1t_razor_imu_m0_driver
+  role: write
+- name: c1t_rplidar_driver
+  role: write
+- name: c1t_vesc_driver
+  role: write
+- name: c1t_zed_driver
+  role: write
+- name: c2c-ri
+  role: write
+- name: carla-sensor-lib
+  role: write
+- name: carla-simulation
+  role: write
+- name: carma-1-tenth
+  role: write
+- name: carma-analytics-fotda
+  role: write
+- name: carma-base
+  role: write
+- name: carma-builds
+  role: admin
+- name: carma-cadillac-srx-2013-can-driver
+  role: write
+- name: carma-cadillac-srx-2013-controller-driver
+  role: write
+- name: carma-cadillac-srx-2013-objects-driver
+  role: write
+- name: carma-carla-integration
+  role: write
+- name: carma-cloud
+  role: write
+- name: carma-config
+  role: write
+- name: carma-dbw-mkz-ros
+  role: write
+- name: carma-delphi-esr-driver
+  role: write
+- name: carma-delphi-srr2-driver
+  role: write
+- name: carma-developer-tools
+  role: write
+- name: carma-freightliner-2012-can-driver
+  role: write
+- name: carma-freightliner-2012-controller-driver
+  role: write
+- name: carma-garmin-lidar-lite-v3-driver-wrapper
+  role: write
+- name: carma-geodetic-lib
+  role: write
+- name: carma-lightbar-driver
+  role: write
+- name: carma-message-filters
+  role: write
+- name: carma-messenger
+  role: write
+- name: carma-messenger-bridge
+  role: write
+- name: carma-mobileye-driver
+  role: write
+- name: carma-msgs
+  role: write
+- name: carma-novatel-oem7-driver-wrapper
+  role: write
+- name: carma-ns3-adapter
+  role: write
+- name: carma-platform
+  role: write
+- name: carma-slamtec-lidar-driver
+  role: write
+- name: carma-ssc-interface-wrapper
+  role: write
+- name: carma-streets
+  role: write
+- name: carma-time-lib
+  role: write
+- name: carma-torc-pinpoint-driver
+  role: write
+- name: carma-torc-xgv-controller-driver
+  role: write
+- name: carma-utils
+  role: write
+- name: carma-validation
+  role: write
+- name: carma-vehicle-calibration
+  role: write
+- name: carma-vehicle-model-framework
+  role: write
+- name: carma-velodyne-lidar-driver
+  role: write
+- name: carma-web-ui
+  role: write
+- name: CARMAConcept
+  role: read
+- name: CARMAConceptOld
+  role: read
+- name: CARMAPlatformOld
+  role: write
+- name: CARMAPlatformOld2
+  role: write
+- name: CARMASensitive
+  role: write
+- name: cav-education
+  role: write
+- name: cavams
+  role: write
+- name: cave-lite
+  role: write
+- name: cda-mmitss
+  role: write
+- name: cda-telematics
+  role: write
+- name: cda1tenth-bringup
+  role: write
+- name: cdasim
+  role: write
+- name: cdasim-config
+  role: write
+- name: connectedvcs-tools
+  role: write
+- name: devops
+  role: write
+- name: din-sae-spec-analysis
+  role: write
+- name: docs.nav2.org
+  role: write
+- name: evc-sumo
+  role: write
+- name: github_metrics
+  role: write
+- name: glidepath-ead
+  role: read
+- name: hil-glidepath-vissim-driver-model
+  role: write
+- name: infrastructure-camera-detection-and-tracking
+  role: write
+- name: intersection-safety-challenge
+  role: write
+- name: isd-creator
+  role: write
+- name: isd-creator2
+  role: write
+- name: j2735decoder
+  role: write
+- name: kafka-client
+  role: admin
+- name: mmitss
+  role: write
+- name: mosaic
+  role: write
+- name: multiple_object_tracking
+  role: write
+- name: navigation2
+  role: write
+- name: navigation2-extensions
+  role: write
+- name: novatel_gps_driver
+  role: write
+- name: novatel_oem7_driver
+  role: write
+- name: ns-3_c-v2x
+  role: write
+- name: ns3-federate
+  role: write
+- name: opendrive2lanelet
+  role: write
+- name: OpenPCDet
+  role: write
+- name: ros1_bridge
+  role: write
+- name: rosbag2
+  role: write
+- name: rosbridge_suite
+  role: write
+- name: scenario-runner
+  role: write
+- name: snmp-client
+  role: admin
+- name: stol-j2735
+  role: admin
+- name: tena-j2735-message-adapter
+  role: write
+- name: tim-bc
+  role: write
+- name: To-21-426-multivariate-piecewise-linear-ACC-car-following-model
+  role: write
+- name: tracetools_analysis
+  role: write
+- name: trajectory-tools
+  role: write
+- name: twist_to_ackermann
+  role: write
+- name: udp-socket
+  role: write
+- name: udp-time-sync
+  role: write
+- name: usdot-asn1c
+  role: write
+- name: v2x-emulator
+  role: write
+- name: v2x-mec
+  role: write
+- name: v2x-mec-mobile-app
+  role: write
+- name: v2x-ros-conversion
+  role: write
+- name: v2x-ros-driver
+  role: write
+- name: vesc
+  role: write
+- name: voices-cda-use-case-scenario-database
+  role: write
+- name: voices-common-interface
+  role: write
+- name: voices-poc
+  role: write
+- name: voices-protocol-io-library
+  role: write
+- name: vug-carla-adapter
+  role: write
+- name: vug-carma-platform-adapter
+  role: write
+- name: vug-cmake-package
+  role: write
+- name: vug-entity-generator
+  role: write
+- name: vug-j2735-adapter
+  role: write
+- name: vug-J3224-adapter
+  role: write
+- name: vug-scenario-publisher
+  role: write
+- name: vug-threads-library
+  role: write
+- name: vug-traffic-light-entity-generator
+  role: write
+- name: vug-udp-protocolio
+  role: write
+- name: vug-v2x-adapter
+  role: write
+- name: vug-v2xhub-bsm-plugin
+  role: write
+- name: vug-v2xhub-mobility-plugin
+  role: write
+- name: vug-v2xhub-spat-plugin
+  role: write
+- name: vug-v2xhub-traffic-control-plugin
+  role: write
+- name: WxDE
+  role: write

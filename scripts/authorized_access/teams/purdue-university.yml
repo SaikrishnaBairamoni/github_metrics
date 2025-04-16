@@ -1,0 +1,14 @@
+name: purdue-university
+description: Purdue University
+members:
+- SafeguardLi
+- Dylan-Wyl10
+repos:
+- name: cda-mmitss
+  role: write
+- name: cdasim-config
+  role: write
+- name: evc-sumo
+  role: read
+- name: mmitss
+  role: write

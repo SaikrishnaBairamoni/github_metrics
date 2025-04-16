@@ -1,0 +1,13 @@
+name: neaera-consulting-group
+description: Neaera Consulting Group
+members:
+- John-Wiens
+- TonyEnglish
+- maefromm
+- Michael7371
+- jacob6838
+repos:
+- name: v2x-mec
+  role: write
+- name: v2x-mec-mobile-app
+  role: write

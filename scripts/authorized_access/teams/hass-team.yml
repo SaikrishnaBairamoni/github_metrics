@@ -1,0 +1,28 @@
+name: hass-team
+description: HASS Team
+members:
+- JonSmet
+- d-lem
+- john-chrosniak
+- radishco
+- JoshEvery
+- mpalash95
+repos:
+- name: din-sae-spec-analysis
+  role: write
+- name: OpenPCDet
+  role: write
+- name: phmsa-ai-poc-api
+  role: write
+- name: phmsa-ai-poc-auto-scale-task-processor-module
+  role: write
+- name: phmsa-ai-poc-common-infrastructure
+  role: write
+- name: phmsa-ai-poc-database
+  role: write
+- name: phmsa-ai-poc-gui
+  role: write
+- name: phmsa-ai-poc-regulation-data-etl
+  role: admin
+- name: predictive-safety-measures
+  role: write

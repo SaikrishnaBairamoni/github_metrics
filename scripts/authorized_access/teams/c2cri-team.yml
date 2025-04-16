@@ -1,0 +1,12 @@
+name: c2cri-team
+description: C2CRI Team
+members:
+- kruegersp
+- cherneysp
+- maefromm
+- dan-du-car
+- SaikrishnaBairamoni
+- yingyanlou
+repos:
+- name: c2c-mvt
+  role: write

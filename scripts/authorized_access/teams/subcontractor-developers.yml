@@ -1,0 +1,40 @@
+name: subcontractor-developers
+description: Subcontractor Developers
+members:
+- kruegersp
+- cherneysp
+repos:
+- name: ads-traffic-regs
+  role: write
+- name: autoware.ai
+  role: write
+- name: carma-base
+  role: write
+- name: carma-carla-integration
+  role: write
+- name: carma-config
+  role: write
+- name: carma-garmin-lidar-lite-v3-driver-wrapper
+  role: read
+- name: carma-ssc-interface-wrapper
+  role: write
+- name: carma-vehicle-calibration
+  role: write
+- name: carma-velodyne-lidar-driver
+  role: read
+- name: CARMAConcept
+  role: read
+- name: CARMAConceptOld
+  role: read
+- name: CARMAPlatformOld
+  role: read
+- name: CARMAPlatformOld2
+  role: read
+- name: CARMASensitive
+  role: read
+- name: cdasim
+  role: write
+- name: cdasim-config
+  role: write
+- name: WxDE
+  role: write

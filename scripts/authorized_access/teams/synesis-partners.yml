@@ -1,0 +1,18 @@
+name: synesis-partners
+description: Synesis Partners
+members:
+- kruegersp
+- cherneysp
+repos:
+- name: c2c-ri
+  role: write
+- name: carma-cloud
+  role: write
+- name: CARMAPlatformOld
+  role: read
+- name: CARMASensitive
+  role: read
+- name: trajectory-tools
+  role: write
+- name: WxDE
+  role: read

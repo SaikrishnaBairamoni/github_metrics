@@ -1,0 +1,8 @@
+name: spectrum-team
+description: Spectrum Team
+members:
+- maefromm
+- ToddSchumannNTIA
+repos:
+- name: spectrum-testing
+  role: maintain

@@ -1,0 +1,11 @@
+name: gurus_team
+description: Gurus_team
+members:
+- SaikrishnaBairamoni
+- gurusit-chandra
+- shivaKadavarthi
+- harsha-gurusinfotech
+- BhanuYeswanthReddy03
+repos:
+- name: asn1-specification-splitter
+  role: write
