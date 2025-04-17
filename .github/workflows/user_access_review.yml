@@ -1,0 +1,52 @@
+name: github-access-review
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+
+      - run: pip install -r scripts/requirements.txt
+      - id: date
+        run: echo "value=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+
+      - name: fetch
+        env: {GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_READORG }}}
+        run: |
+          python scripts/fetch_current_access.py
+          mv initial_current_access.json current_access.json
+
+      - name: compare
+        run: python scripts/compare_access.py
+
+      - id: diff
+        run: |
+          if [ $(wc -l < user_roles_changes.csv) -gt 1 ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: prepare-report
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          mkdir -p .github/audit_reports
+          cp user_roles_changes.csv .github/audit_reports/${{ steps.date.outputs.value }}.csv
+
+      - uses: peter-evans/create-pull-request@v5
+        if: steps.diff.outputs.changed == 'true'
+        with:
+          branch: audit-${{ steps.date.outputs.value }}
+          commit-message: Audit report ${{ steps.date.outputs.value }}
+          title: GitHub access review – ${{ steps.date.outputs.value }}
+          body: "@DevOps Monthly review found access changes. CSV attached in this PR."
+          add-paths: .github/audit_reports/${{ steps.date.outputs.value }}.csv
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
